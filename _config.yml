@@ -1,0 +1,7 @@
+# Public site, built by market_data/publish.py and pushed to the public repository.
+title: 美股公告与要闻
+description: 美股大盘股的 SEC 公告、内部人交易、FRED 宏观数据和每日要闻中文摘要。
+lang: zh-CN
+markdown: kramdown
+kramdown:
+  input: GFM
