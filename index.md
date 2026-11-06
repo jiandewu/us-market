@@ -24,7 +24,7 @@
 | 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-04 | 4.58 | 4.61 |
 | 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-04 | 4.90 | 4.95 |
 | 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-05 | 0.38 | 0.32 |
-| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-04 | 16.61 | 20.83 |
+| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-05 | 28.18 | 16.61 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-03 | 99.64 | 100.06 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-10-30 | 121.6656 | 121.7361 |
 | 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-10-31 | 189000 | 195000 |
@@ -42,6 +42,7 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-06 07:24 | SPG | SIMON PROPERTY GROUP INC. | [10-Q](https://www.sec.gov/Archives/edgar/data/1063761/000110465926123591/spg-20260930x10q.htm) | 季报 |
 | 2026-11-05 16:58 | META | Meta Platforms, Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm) | 其他事件；财务报表和附件 |
 | 2026-11-05 16:33 | MU | MICRON TECHNOLOGY INC | [8-K](https://www.sec.gov/Archives/edgar/data/723125/000110465926123389/tm2629062d1_8k.htm) | 董事或高管变动；财务报表和附件 |
 | 2026-11-05 16:21 | MS | MORGAN STANLEY | [10-Q](https://www.sec.gov/Archives/edgar/data/895421/000089542126000293/ms-20260930.htm) | 季报 |
@@ -61,7 +62,6 @@
 | 2026-11-04 16:07 | UBER | Uber Technologies, Inc | [10-Q](https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/uber-20260930.htm) | 季报 |
 | 2026-11-04 16:04 | QCOM | QUALCOMM INC/DE | [10-K](https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/qcom-20260927.htm) | 年报 |
 | 2026-11-04 16:03 | QCOM | QUALCOMM INC/DE | [8-K](https://www.sec.gov/Archives/edgar/data/804328/000080432826000127/qcom-20261104.htm) | 经营业绩；财务报表和附件 |
-| 2026-11-04 16:01 | MSFT | MICROSOFT CORP | [8-K](https://www.sec.gov/Archives/edgar/data/789019/000119312526447173/d178557d8k.htm) | 其他事件；财务报表和附件 |
 
 ## 最新内部人交易（Form 3/4/144）
 
