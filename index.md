@@ -4,19 +4,19 @@
 
 ## 每日要闻
 
-2026-11-04，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-05，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [中期选举落地消除政策悬念，道指狂飙1569点创一年新高](news/2026/2026-11-04.md#news-1) | [Yahoo Finance](https://finance.yahoo.com/m/762d358c-ec5a-3821-a3f9-e47c4e4c3f0c/stock-market-today%3A-dow-soars.html?.tsrc=rss) | 2026-11-04 16:47 | 利好 | AAPL DIA MSFT QQQ SPY |
-| 2 | [原油价格大幅回落跌破90美元，大幅缓解市场通胀担忧](news/2026/2026-11-04.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html) | 2026-11-04 15:14 | 利好 | CVX SPY XOM |
-| 3 | [高通第四季度业绩超预期但指引低迷，盘后股价重挫7%](news/2026/2026-11-04.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html) | 2026-11-04 18:38 | 利空 | AVGO NVDA QCOM QQQ |
-| 4 | [甲骨文取消与腾讯70亿美元芯片租赁交易，股价承压走低](news/2026/2026-11-04.md#news-4) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/04/stock-market-today-nov-4-oracle-falls-on-canceled-7-billion-tencent-chip-leasing-deal/?.tsrc=rss) | 2026-11-04 17:20 | 利空 | MSFT NVDA ORCL |
-| 5 | [麦当劳第三季度盈利超预期，股价猛涨6.6%](news/2026/2026-11-04.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/mcdonald-mcd-stock-jumps-q3-001736908.html?.tsrc=rss) | 2026-11-04 19:17 | 利好 | DIA MCD SPY |
+| 1 | [科技股创2020年以来最差单日表现，AI概念遭遇猛烈抛售](news/2026/2026-11-05.md#news-1) | [MarketWatch](https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories) | 2026-11-05 17:48 | 利空 | IVV MAGS NVDA QQQ SPY VOO |
+| 2 | [美联储官员巴尔金称仍有加息可能，但步伐将保持渐进](news/2026/2026-11-05.md#news-2) | [CNBC Markets](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html) | 2026-11-05 11:34 | 利空 | DIA GLD QQQ SPY |
+| 3 | [中期选举后民主党高层呼吁遏制AI扩张并暂停数据中心建设](news/2026/2026-11-05.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html) | 2026-11-05 15:17 | 利空 | AMD AMZN AVGO GOOGL MSFT NVDA |
+| 4 | [亚马逊与Uber达成外卖合作，打压竞对并强化生态整合](news/2026/2026-11-05.md#news-4) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/amazon-uber-eats-deal-sends-dash-stock-to-biggest-drop-in-a-year/cNG1MHxR94F?.tsrc=rss) | 2026-11-05 15:24 | 利好 | AMZN UBER |
+| 5 | [资金避险流向防守板块，艾伯维与礼来创52周新高](news/2026/2026-11-05.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/healthcare/articles/2-defensive-healthcare-stocks-hitting-222200294.html?.tsrc=rss) | 2026-11-05 17:22 | 利好 | ABBV LLY SPY |
 
 ## 宏观数据
 
-**AI 解读（2026-11-04）**：最新公布的数据显示，WTI原油价格在11月3日回落至每桶99.64美元，自10月30日的107.56美元大幅下降，原油成本回落有效缓解了市场的短期通胀忧虑。债券市场方面，10年期美债收益率上升4个基点至4.95%，2年期美债收益率微升2个基点至4.61%，10年与2年期利差稍微缩窄2个基点至0.32%。同时，VIX波动率指数下降1.51%至20.83，反映出中期选举落地后市场风险偏好明显回升。
+**AI 解读（2026-11-05）**：劳动力市场方面，截至10月31日当周首次申请失业救济人数录得189000人，较前值减少6000人。利率与债券市场方面，11月4日联邦基金有效利率持平于3.88%，10年期美债收益率下降5个基点至4.90%，2年期美债收益率下降3个基点至4.58%；11月5日10年与2年期美债利差为0.38%，30年期房贷利率降至7.18%。美债收益率高位运行叠加官员加息表态，与科技股估值重挫、避险情绪上升相互交织。
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
