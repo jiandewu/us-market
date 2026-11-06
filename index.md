@@ -32,8 +32,8 @@
 | CPI | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) | 月 | 2026-09-01 | 336.298 | 334.131 |
 | 核心 CPI | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL) | 月 | 2026-09-01 | 338.896 | 337.765 |
 | 核心 PCE 物价指数 | [PCEPILFE](https://fred.stlouisfed.org/series/PCEPILFE) | 月 | 2026-09-01 | 130.902 | 130.489 |
-| 失业率 | [UNRATE](https://fred.stlouisfed.org/series/UNRATE) | 月 | 2026-09-01 | 4.2 | 4.1 |
-| 非农就业人数 | [PAYEMS](https://fred.stlouisfed.org/series/PAYEMS) | 月 | 2026-09-01 | 159044 | 159015 |
+| 失业率 | [UNRATE](https://fred.stlouisfed.org/series/UNRATE) | 月 | 2026-10-01 | 4.1 | 4.2 |
+| 非农就业人数 | [PAYEMS](https://fred.stlouisfed.org/series/PAYEMS) | 月 | 2026-10-01 | 159293 | 159128 |
 | 零售销售 | [RSAFS](https://fred.stlouisfed.org/series/RSAFS) | 月 | 2026-09-01 | 745021 | 739322 |
 | 密歇根消费者信心 | [UMCSENT](https://fred.stlouisfed.org/series/UMCSENT) | 月 | 2026-09-01 | 48.1 | 51.7 |
 | 实际 GDP | [GDPC1](https://fred.stlouisfed.org/series/GDPC1) | 季 | 2026-07-01 | 24611.077 | 24408.011 |
@@ -42,6 +42,9 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-06 15:44 | IBIT | iShares Bitcoin Trust ETF | [10-Q](https://www.sec.gov/Archives/edgar/data/1980994/000143774926035539/ibit20260930_10q.htm) | 季报 |
+| 2026-11-06 14:54 | BAC | BANK OF AMERICA CORP /DE/ | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/70858/000007085826000567/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
+| 2026-11-06 12:07 | MCD | MCDONALDS CORP | [10-Q](https://www.sec.gov/Archives/edgar/data/63908/000006390826000083/mcd-20260930.htm) | 季报 |
 | 2026-11-06 07:24 | SPG | SIMON PROPERTY GROUP INC. | [10-Q](https://www.sec.gov/Archives/edgar/data/1063761/000110465926123591/spg-20260930x10q.htm) | 季报 |
 | 2026-11-05 16:58 | META | Meta Platforms, Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm) | 其他事件；财务报表和附件 |
 | 2026-11-05 16:33 | MU | MICRON TECHNOLOGY INC | [8-K](https://www.sec.gov/Archives/edgar/data/723125/000110465926123389/tm2629062d1_8k.htm) | 董事或高管变动；财务报表和附件 |
@@ -59,14 +62,12 @@
 | 2026-11-04 16:49 | ORCL | ORACLE CORP | [8-K](https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/d131790d8k.htm) | 其他事件；财务报表和附件 |
 | 2026-11-04 16:14 | MRK | Merck & Co., Inc. | [10-Q](https://www.sec.gov/Archives/edgar/data/310158/000031015826000248/mrk-20260930.htm) | 季报 |
 | 2026-11-04 16:13 | ABT | ABBOTT LABORATORIES | [10-Q](https://www.sec.gov/Archives/edgar/data/1800/000162828026070154/abt-20260930.htm) | 季报 |
-| 2026-11-04 16:07 | UBER | Uber Technologies, Inc | [10-Q](https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/uber-20260930.htm) | 季报 |
-| 2026-11-04 16:04 | QCOM | QUALCOMM INC/DE | [10-K](https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/qcom-20260927.htm) | 年报 |
-| 2026-11-04 16:03 | QCOM | QUALCOMM INC/DE | [8-K](https://www.sec.gov/Archives/edgar/data/804328/000080432826000127/qcom-20261104.htm) | 经营业绩；财务报表和附件 |
 
 ## 最新内部人交易（Form 3/4/144）
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-06 13:46 | LIN | LINDE PLC | [4](https://www.sec.gov/Archives/edgar/data/1707925/000162828026071528/xslF345X06/wk-form4_1793990769.xml) | 内部人交易 |
 | 2026-11-05 20:24 | NFLX | NETFLIX INC | [4](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000320/xslF345X06/wk-form4_1793928244.xml) | 内部人交易 |
 | 2026-11-05 20:23 | NFLX | NETFLIX INC | [4](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000318/xslF345X06/wk-form4_1793928218.xml) | 内部人交易 |
 | 2026-11-05 20:23 | NFLX | NETFLIX INC | [4](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000316/xslF345X06/wk-form4_1793928189.xml) | 内部人交易 |
@@ -81,4 +82,3 @@
 | 2026-11-05 16:28 | KO | COCA COLA CO | [144](https://www.sec.gov/Archives/edgar/data/21344/000195004726010738/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-05 16:22 | ABT | ABBOTT LABORATORIES | [144](https://www.sec.gov/Archives/edgar/data/1800/000178314726000011/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-05 16:09 | GE | GENERAL ELECTRIC CO | [4](https://www.sec.gov/Archives/edgar/data/40545/000195306326000011/xslF345X06/wk-form4_1793912986.xml) | 内部人交易 |
-| 2026-11-05 15:24 | NFLX | NETFLIX INC | [4](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000322/xslF345X06/wk-form4_1793928269.xml) | 内部人交易 |
