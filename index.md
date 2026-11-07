@@ -20,10 +20,10 @@
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
-| 联邦基金有效利率 | [DFF](https://fred.stlouisfed.org/series/DFF) | 日 | 2026-11-04 | 3.88 | 3.88 |
-| 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-04 | 4.58 | 4.61 |
-| 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-04 | 4.90 | 4.95 |
-| 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-05 | 0.38 | 0.32 |
+| 联邦基金有效利率 | [DFF](https://fred.stlouisfed.org/series/DFF) | 日 | 2026-11-05 | 3.88 | 3.88 |
+| 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-05 | 4.46 | 4.58 |
+| 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-05 | 4.84 | 4.90 |
+| 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-06 | 0.35 | 0.38 |
 | VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-05 | 28.18 | 16.61 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-03 | 99.64 | 100.06 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-10-30 | 121.6656 | 121.7361 |
@@ -42,6 +42,12 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-06 19:28 | MS | MORGAN STANLEY | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/895421/000089542126000305/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
+| 2026-11-06 19:19 | MS | MORGAN STANLEY | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/895421/000089542126000302/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
+| 2026-11-06 19:08 | MS | MORGAN STANLEY | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/895421/000089542126000301/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
+| 2026-11-06 18:56 | MS | MORGAN STANLEY | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/895421/000089542126000298/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
+| 2026-11-06 18:31 | MS | MORGAN STANLEY | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/895421/000089542126000295/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
+| 2026-11-06 16:15 | SPCX | SPACE EXPLORATION TECHNOLOGIES CORP | [8-K](https://www.sec.gov/Archives/edgar/data/1181412/000162828026071689/spcx-20261104.htm) | 董事或高管变动 |
 | 2026-11-06 15:44 | IBIT | iShares Bitcoin Trust ETF | [10-Q](https://www.sec.gov/Archives/edgar/data/1980994/000143774926035539/ibit20260930_10q.htm) | 季报 |
 | 2026-11-06 14:54 | BAC | BANK OF AMERICA CORP /DE/ | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/70858/000007085826000567/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-06 12:07 | MCD | MCDONALDS CORP | [10-Q](https://www.sec.gov/Archives/edgar/data/63908/000006390826000083/mcd-20260930.htm) | 季报 |
@@ -56,29 +62,23 @@
 | 2026-11-05 11:30 | JPM | JPMORGAN CHASE & CO | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/19617/000001961726000400/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-05 11:30 | JPM | JPMORGAN CHASE & CO | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/19617/000001961726000399/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-05 11:30 | JPM | JPMORGAN CHASE & CO | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/19617/000001961726000398/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
-| 2026-11-05 11:30 | JPM | JPMORGAN CHASE & CO | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/19617/000001961726000397/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
-| 2026-11-05 11:20 | CVX | CHEVRON CORP | [10-Q](https://www.sec.gov/Archives/edgar/data/93410/000009341026000200/cvx-20260930.htm) | 季报 |
-| 2026-11-05 06:01 | MSFT | MICROSOFT CORP | [8-K](https://www.sec.gov/Archives/edgar/data/789019/000119312526448357/d177209d8k.htm) | 董事或高管变动 |
-| 2026-11-04 16:49 | ORCL | ORACLE CORP | [8-K](https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/d131790d8k.htm) | 其他事件；财务报表和附件 |
-| 2026-11-04 16:14 | MRK | Merck & Co., Inc. | [10-Q](https://www.sec.gov/Archives/edgar/data/310158/000031015826000248/mrk-20260930.htm) | 季报 |
-| 2026-11-04 16:13 | ABT | ABBOTT LABORATORIES | [10-Q](https://www.sec.gov/Archives/edgar/data/1800/000162828026070154/abt-20260930.htm) | 季报 |
 
 ## 最新内部人交易（Form 3/4/144）
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-06 20:03 | QCOM | QUALCOMM INC/DE | [4](https://www.sec.gov/Archives/edgar/data/804328/000080432826000131/xslF345X06/edgardoc.xml) | 内部人交易 |
+| 2026-11-06 18:36 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017123/xslF345X06/ownership.xml) | 内部人交易 |
+| 2026-11-06 17:09 | ABT | ABBOTT LABORATORIES | [4](https://www.sec.gov/Archives/edgar/data/1800/000178314726000013/xslF345X06/form4-11062026_101139.xml) | 内部人交易 |
+| 2026-11-06 16:55 | MS | MORGAN STANLEY | [144](https://www.sec.gov/Archives/edgar/data/895421/000195004726010790/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-06 16:30 | QCOM | QUALCOMM INC/DE | [4](https://www.sec.gov/Archives/edgar/data/804328/000080432826000130/xslF345X06/edgardoc.xml) | 内部人交易 |
+| 2026-11-06 16:17 | QCOM | QUALCOMM INC/DE | [144](https://www.sec.gov/Archives/edgar/data/804328/000195004726010769/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-06 16:14 | QCOM | QUALCOMM INC/DE | [144](https://www.sec.gov/Archives/edgar/data/804328/000194984626000643/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-06 16:12 | NVDA | NVIDIA CORP | [4](https://www.sec.gov/Archives/edgar/data/1045810/000119764726000013/xslF345X06/wk-form4_1793999520.xml) | 内部人交易 |
+| 2026-11-06 16:05 | AXP | AMERICAN EXPRESS CO | [4](https://www.sec.gov/Archives/edgar/data/4962/000000496226000429/xslF345X06/form4.xml) | 内部人交易 |
 | 2026-11-06 13:46 | LIN | LINDE PLC | [4](https://www.sec.gov/Archives/edgar/data/1707925/000162828026071528/xslF345X06/wk-form4_1793990769.xml) | 内部人交易 |
 | 2026-11-05 20:24 | NFLX | NETFLIX INC | [4](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000320/xslF345X06/wk-form4_1793928244.xml) | 内部人交易 |
 | 2026-11-05 20:23 | NFLX | NETFLIX INC | [4](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000318/xslF345X06/wk-form4_1793928218.xml) | 内部人交易 |
 | 2026-11-05 20:23 | NFLX | NETFLIX INC | [4](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000316/xslF345X06/wk-form4_1793928189.xml) | 内部人交易 |
 | 2026-11-05 20:22 | NFLX | NETFLIX INC | [4/A](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000314/xslF345X06/wk-form4a_1793928155.xml) | 内部人交易（修订） |
 | 2026-11-05 18:59 | BAC | BANK OF AMERICA CORP /DE/ | [4](https://www.sec.gov/Archives/edgar/data/70858/000007085826000563/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-05 18:30 | AAPL | Apple Inc. | [4](https://www.sec.gov/Archives/edgar/data/320193/000114036126042149/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-05 16:59 | WMT | Walmart Inc. | [4](https://www.sec.gov/Archives/edgar/data/104169/000211064326000022/xslF345X06/wk-form4_1793915973.xml) | 内部人交易 |
-| 2026-11-05 16:59 | WMT | Walmart Inc. | [4](https://www.sec.gov/Archives/edgar/data/104169/000211030426000025/xslF345X06/wk-form4_1793915978.xml) | 内部人交易 |
-| 2026-11-05 16:59 | WMT | Walmart Inc. | [4](https://www.sec.gov/Archives/edgar/data/104169/000205830926000021/xslF345X06/wk-form4_1793915984.xml) | 内部人交易 |
-| 2026-11-05 16:59 | WMT | Walmart Inc. | [4](https://www.sec.gov/Archives/edgar/data/104169/000188636726000031/xslF345X06/wk-form4_1793915990.xml) | 内部人交易 |
-| 2026-11-05 16:30 | V | VISA INC. | [4](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000136/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-05 16:28 | KO | COCA COLA CO | [144](https://www.sec.gov/Archives/edgar/data/21344/000195004726010738/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-05 16:22 | ABT | ABBOTT LABORATORIES | [144](https://www.sec.gov/Archives/edgar/data/1800/000178314726000011/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-05 16:09 | GE | GENERAL ELECTRIC CO | [4](https://www.sec.gov/Archives/edgar/data/40545/000195306326000011/xslF345X06/wk-form4_1793912986.xml) | 内部人交易 |
