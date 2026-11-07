@@ -4,15 +4,15 @@
 
 ## 每日要闻
 
-2026-11-05，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-06，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [科技股创2020年以来最差单日表现，AI概念遭遇猛烈抛售](news/2026/2026-11-05.md#news-1) | [MarketWatch](https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories) | 2026-11-05 17:48 | 利空 | IVV MAGS NVDA QQQ SPY VOO |
-| 2 | [美联储官员巴尔金称仍有加息可能，但步伐将保持渐进](news/2026/2026-11-05.md#news-2) | [CNBC Markets](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html) | 2026-11-05 11:34 | 利空 | DIA GLD QQQ SPY |
-| 3 | [中期选举后民主党高层呼吁遏制AI扩张并暂停数据中心建设](news/2026/2026-11-05.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html) | 2026-11-05 15:17 | 利空 | AMD AMZN AVGO GOOGL MSFT NVDA |
-| 4 | [亚马逊与Uber达成外卖合作，打压竞对并强化生态整合](news/2026/2026-11-05.md#news-4) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/amazon-uber-eats-deal-sends-dash-stock-to-biggest-drop-in-a-year/cNG1MHxR94F?.tsrc=rss) | 2026-11-05 15:24 | 利好 | AMZN UBER |
-| 5 | [资金避险流向防守板块，艾伯维与礼来创52周新高](news/2026/2026-11-05.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/healthcare/articles/2-defensive-healthcare-stocks-hitting-222200294.html?.tsrc=rss) | 2026-11-05 17:22 | 利好 | ABBV LLY SPY |
+| 1 | [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](news/2026/2026-11-06.md#news-1) | [CNBC Markets](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html) | 2026-11-06 14:05 | 不确定 |  |
+| 2 | [Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook](news/2026/2026-11-06.md#news-2) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/06/stock-market-today-nov-6-amd-surges-11-on-record-quarterly-revenue-and-stronger-growth-outlook/?.tsrc=rss) | 2026-11-06 17:25 | 不确定 | AMD |
+| 3 | [Elon Musk Says SpaceX Sales Are ‘Exploding’—and Forecasts Revenue Twice Wall Street’s Estimate](news/2026/2026-11-06.md#news-3) | [Yahoo Finance](https://finance.yahoo.com/m/33f9fc20-fa78-3956-8228-680794206f3a/elon-musk-says-spacex-sales.html?.tsrc=rss) | 2026-11-06 16:34 | 不确定 |  |
+| 4 | [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](news/2026/2026-11-06.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) | 2026-11-06 12:09 | 不确定 |  |
+| 5 | [Wall Street's fear gauge may be flashing a buy sign](news/2026/2026-11-06.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html) | 2026-11-06 11:29 | 不确定 |  |
 
 ## 宏观数据
 
