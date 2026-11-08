@@ -1,22 +1,22 @@
 {
- "date": "2026-11-06",
- "updated": "2026-11-07T05:51:38+00:00",
- "summary": "",
+ "date": "2026-11-07",
+ "updated": "2026-11-08T05:55:43+00:00",
+ "summary": "美股近期遭遇剧烈抛售，标普500指数录得自2025年4月以来最差单周表现，纳指亦深陷技术性回调。强于预期的10月非农就业数据引发美联储再度加息的担忧，避险情绪升温导致芯片等AI相关科技股重挫，而伯克希尔等具备充裕现金流的防御性蓝筹则表现抗跌。",
  "items": [
   {
-   "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-06.html#news-1"
+   "title": "美国10月非农就业劲增16.5万人远超预期，失业率降至4.1%",
+   "impact": "利空",
+   "url": "news/2026/2026-11-07.html#news-1"
   },
   {
-   "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-06.html#news-2"
+   "title": "强劲非农数据点燃加息预期，美联储12月加息概率飙升至77%",
+   "impact": "利空",
+   "url": "news/2026/2026-11-07.html#news-2"
   },
   {
-   "title": "Elon Musk Says SpaceX Sales Are ‘Exploding’—and Forecasts Revenue Twice Wall Street’s Estimate",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-06.html#news-3"
+   "title": "标普500指数创下2025年4月以来最差单周表现，芯片板块领跌",
+   "impact": "利空",
+   "url": "news/2026/2026-11-07.html#news-3"
   }
  ],
  "macro": [

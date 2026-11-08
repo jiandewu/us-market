@@ -4,15 +4,15 @@
 
 ## 每日要闻
 
-2026-11-06，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-07，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](news/2026/2026-11-06.md#news-1) | [CNBC Markets](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html) | 2026-11-06 14:05 | 不确定 |  |
-| 2 | [Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook](news/2026/2026-11-06.md#news-2) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/06/stock-market-today-nov-6-amd-surges-11-on-record-quarterly-revenue-and-stronger-growth-outlook/?.tsrc=rss) | 2026-11-06 17:25 | 不确定 | AMD |
-| 3 | [Elon Musk Says SpaceX Sales Are ‘Exploding’—and Forecasts Revenue Twice Wall Street’s Estimate](news/2026/2026-11-06.md#news-3) | [Yahoo Finance](https://finance.yahoo.com/m/33f9fc20-fa78-3956-8228-680794206f3a/elon-musk-says-spacex-sales.html?.tsrc=rss) | 2026-11-06 16:34 | 不确定 |  |
-| 4 | [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](news/2026/2026-11-06.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) | 2026-11-06 12:09 | 不确定 |  |
-| 5 | [Wall Street's fear gauge may be flashing a buy sign](news/2026/2026-11-06.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html) | 2026-11-06 11:29 | 不确定 |  |
+| 1 | [美国10月非农就业劲增16.5万人远超预期，失业率降至4.1%](news/2026/2026-11-07.md#news-1) | [Yahoo Finance](https://finance.yahoo.com/economy/articles/october-payrolls-smash-estimates-165k-114506271.html?.tsrc=rss) | 2026-11-07 06:45 | 利空 | DIA QQQ SPY |
+| 2 | [强劲非农数据点燃加息预期，美联储12月加息概率飙升至77%](news/2026/2026-11-07.md#news-2) | [Yahoo Finance](https://247wallst.com/investing/2026/11/07/odds-of-a-december-rate-hike-jump-to-77-after-a-blowout-jobs-report/?.tsrc=rss) | 2026-11-07 12:33 | 利空 | DIA GLD QQQ SPY |
+| 3 | [标普500指数创下2025年4月以来最差单周表现，芯片板块领跌](news/2026/2026-11-07.md#news-3) | [Yahoo Finance](https://247wallst.com/investing/2026/11/07/the-sp-500-just-had-its-worst-week-since-the-april-2025-tariff-crash/?.tsrc=rss) | 2026-11-07 12:33 | 利空 | NVDA QQQ SPY |
+| 4 | [纳斯达克指数跌入技术性回调区间，科技股遭遇剧烈抛售](news/2026/2026-11-07.md#news-4) | [CNBC Markets](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) | 2026-11-06 15:42 | 利空 | AAPL AMD MSFT NVDA QQQ |
+| 5 | [伯克希尔Q3营业利润承压，斥资96亿美元回购并推进接班程序](news/2026/2026-11-07.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-formalizes-greg-021120535.html?.tsrc=rss) | 2026-11-07 21:11 | 中性 | BRK-B SPY |
 
 ## 宏观数据
 
