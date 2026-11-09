@@ -42,6 +42,8 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-09 06:10 | BRK-B | BERKSHIRE HATHAWAY INC | [8-K](https://www.sec.gov/Archives/edgar/data/1067983/000119312526452530/brka-20261107.htm) | 经营业绩；财务报表和附件 |
+| 2026-11-09 06:01 | BRK-B | BERKSHIRE HATHAWAY INC | [10-Q](https://www.sec.gov/Archives/edgar/data/1067983/000119312526452412/brka-20260930.htm) | 季报 |
 | 2026-11-06 19:28 | MS | MORGAN STANLEY | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/895421/000089542126000305/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-06 19:19 | MS | MORGAN STANLEY | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/895421/000089542126000302/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
 | 2026-11-06 19:08 | MS | MORGAN STANLEY | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/895421/000089542126000301/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
@@ -60,13 +62,18 @@
 | 2026-11-05 16:07 | V | VISA INC. | [10-K](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/v-20260930.htm) | 年报 |
 | 2026-11-05 13:29 | WFC | WELLS FARGO & COMPANY/MN | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/72971/000031506626002893/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-05 11:30 | JPM | JPMORGAN CHASE & CO | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/19617/000001961726000400/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
-| 2026-11-05 11:30 | JPM | JPMORGAN CHASE & CO | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/19617/000001961726000399/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
-| 2026-11-05 11:30 | JPM | JPMORGAN CHASE & CO | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/19617/000001961726000398/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 
 ## 最新内部人交易（Form 3/4/144）
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-09 12:11 | CRCL | Circle Internet Group, Inc. | [144](https://www.sec.gov/Archives/edgar/data/1876042/000195917326007853/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-09 12:08 | KO | COCA COLA CO | [4](https://www.sec.gov/Archives/edgar/data/21344/000002134426000171/xslF345X06/form4.xml) | 内部人交易 |
+| 2026-11-09 11:02 | PG | PROCTER & GAMBLE Co | [4](https://www.sec.gov/Archives/edgar/data/80424/000008042426000273/xslF345X06/form4.xml) | 内部人交易 |
+| 2026-11-09 11:00 | PG | PROCTER & GAMBLE Co | [4](https://www.sec.gov/Archives/edgar/data/80424/000008042426000272/xslF345X06/form4.xml) | 内部人交易 |
+| 2026-11-09 09:47 | NOW | ServiceNow, Inc. | [144](https://www.sec.gov/Archives/edgar/data/1373715/000195917326007841/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-09 09:39 | QCOM | QUALCOMM INC/DE | [144](https://www.sec.gov/Archives/edgar/data/804328/000195917326007839/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-09 06:15 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000734/xslF345X06/wk-form4_1794222904.xml) | 内部人交易 |
 | 2026-11-06 20:03 | QCOM | QUALCOMM INC/DE | [4](https://www.sec.gov/Archives/edgar/data/804328/000080432826000131/xslF345X06/edgardoc.xml) | 内部人交易 |
 | 2026-11-06 18:36 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017123/xslF345X06/ownership.xml) | 内部人交易 |
 | 2026-11-06 17:09 | ABT | ABBOTT LABORATORIES | [4](https://www.sec.gov/Archives/edgar/data/1800/000178314726000013/xslF345X06/form4-11062026_101139.xml) | 内部人交易 |
@@ -75,10 +82,3 @@
 | 2026-11-06 16:17 | QCOM | QUALCOMM INC/DE | [144](https://www.sec.gov/Archives/edgar/data/804328/000195004726010769/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-06 16:14 | QCOM | QUALCOMM INC/DE | [144](https://www.sec.gov/Archives/edgar/data/804328/000194984626000643/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-06 16:12 | NVDA | NVIDIA CORP | [4](https://www.sec.gov/Archives/edgar/data/1045810/000119764726000013/xslF345X06/wk-form4_1793999520.xml) | 内部人交易 |
-| 2026-11-06 16:05 | AXP | AMERICAN EXPRESS CO | [4](https://www.sec.gov/Archives/edgar/data/4962/000000496226000429/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-06 13:46 | LIN | LINDE PLC | [4](https://www.sec.gov/Archives/edgar/data/1707925/000162828026071528/xslF345X06/wk-form4_1793990769.xml) | 内部人交易 |
-| 2026-11-05 20:24 | NFLX | NETFLIX INC | [4](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000320/xslF345X06/wk-form4_1793928244.xml) | 内部人交易 |
-| 2026-11-05 20:23 | NFLX | NETFLIX INC | [4](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000318/xslF345X06/wk-form4_1793928218.xml) | 内部人交易 |
-| 2026-11-05 20:23 | NFLX | NETFLIX INC | [4](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000316/xslF345X06/wk-form4_1793928189.xml) | 内部人交易 |
-| 2026-11-05 20:22 | NFLX | NETFLIX INC | [4/A](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000314/xslF345X06/wk-form4a_1793928155.xml) | 内部人交易（修订） |
-| 2026-11-05 18:59 | BAC | BANK OF AMERICA CORP /DE/ | [4](https://www.sec.gov/Archives/edgar/data/70858/000007085826000563/xslF345X06/form4.xml) | 内部人交易 |
