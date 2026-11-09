@@ -4,15 +4,15 @@
 
 ## 每日要闻
 
-2026-11-07，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-08，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [美国10月非农就业劲增16.5万人远超预期，失业率降至4.1%](news/2026/2026-11-07.md#news-1) | [Yahoo Finance](https://finance.yahoo.com/economy/articles/october-payrolls-smash-estimates-165k-114506271.html?.tsrc=rss) | 2026-11-07 06:45 | 利空 | DIA QQQ SPY |
-| 2 | [强劲非农数据点燃加息预期，美联储12月加息概率飙升至77%](news/2026/2026-11-07.md#news-2) | [Yahoo Finance](https://247wallst.com/investing/2026/11/07/odds-of-a-december-rate-hike-jump-to-77-after-a-blowout-jobs-report/?.tsrc=rss) | 2026-11-07 12:33 | 利空 | DIA GLD QQQ SPY |
-| 3 | [标普500指数创下2025年4月以来最差单周表现，芯片板块领跌](news/2026/2026-11-07.md#news-3) | [Yahoo Finance](https://247wallst.com/investing/2026/11/07/the-sp-500-just-had-its-worst-week-since-the-april-2025-tariff-crash/?.tsrc=rss) | 2026-11-07 12:33 | 利空 | NVDA QQQ SPY |
-| 4 | [纳斯达克指数跌入技术性回调区间，科技股遭遇剧烈抛售](news/2026/2026-11-07.md#news-4) | [CNBC Markets](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) | 2026-11-06 15:42 | 利空 | AAPL AMD MSFT NVDA QQQ |
-| 5 | [伯克希尔Q3营业利润承压，斥资96亿美元回购并推进接班程序](news/2026/2026-11-07.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-formalizes-greg-021120535.html?.tsrc=rss) | 2026-11-07 21:11 | 中性 | BRK-B SPY |
+| 1 | [市场聚焦通胀数据及中期选举后政策变化](news/2026/2026-11-08.md#news-1) | [Yahoo Finance](https://www.barchart.com/story/news/8725342/inflation-data-post-midterm-weakness-and-other-key-things-to-watch-this-week?.tsrc=rss) | 2026-11-08 13:00 | 不确定 | DIA QQQ SPY |
+| 2 | [英伟达董事会对其CEO黄仁勋涉嫌情报事件展开调查](news/2026/2026-11-08.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html) | 2026-11-08 17:53 | 利空 | NVDA QQQ |
+| 3 | [半导体板块震荡企稳 投资者逐渐消化大选与英伟达风波影响](news/2026/2026-11-08.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/amd-avgo-intc-mu-chip-stocks-inch-higher-as-investors-look-past-midterms-led-selloff-nvidia-controversy/cNGAD0CR9eR?.tsrc=rss) | 2026-11-08 22:34 | 利好 | AMD AVGO MU NVDA |
+| 4 | [苹果计划大幅升级Siri 拟引入现代Agentic AI能力](news/2026/2026-11-08.md#news-4) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/apple-bringing-agent-capabilities-to-siri-report-says-apple-s-ai-is-up-for-a-major-upgrade-as-ceo-ternus-pushes-for-faster-roadmap/cNGAymiR9e5?.tsrc=rss) | 2026-11-08 23:53 | 利好 | AAPL |
+| 5 | [Uber公布第三季度财报 订单量持续高增但出行增速放缓](news/2026/2026-11-08.md#news-5) | [Yahoo Finance](https://www.marketbeat.com/instant-alerts/transcript-what-uber-technologies-uber-said-on-its-q3-earnings-call-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss) | 2026-11-08 20:14 | 中性 | UBER |
 
 ## 宏观数据
 
