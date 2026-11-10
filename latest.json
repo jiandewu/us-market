@@ -1,22 +1,22 @@
 {
- "date": "2026-11-08",
- "updated": "2026-11-09T06:14:53+00:00",
- "summary": "美股期指在经历上周大跌后出现反弹，市场焦点集中于本周即将公布的通胀数据（CPI和PPI）以及民主党赢得中期选举后的政策风险评估。同时，英伟达CEO黄仁勋因个人事务及涉嫌外国谍报的调查引发市场关注，AI与半导体板块在情绪震荡后试图企稳恢复。",
+ "date": "2026-11-09",
+ "updated": "2026-11-10T07:10:16+00:00",
+ "summary": "",
  "items": [
   {
-   "title": "市场聚焦通胀数据及中期选举后政策变化",
+   "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
    "impact": "不确定",
-   "url": "news/2026/2026-11-08.html#news-1"
+   "url": "news/2026/2026-11-09.html#news-1"
   },
   {
-   "title": "英伟达董事会对其CEO黄仁勋涉嫌情报事件展开调查",
-   "impact": "利空",
-   "url": "news/2026/2026-11-08.html#news-2"
+   "title": "Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection",
+   "impact": "不确定",
+   "url": "news/2026/2026-11-09.html#news-2"
   },
   {
-   "title": "半导体板块震荡企稳 投资者逐渐消化大选与英伟达风波影响",
-   "impact": "利好",
-   "url": "news/2026/2026-11-08.html#news-3"
+   "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+   "impact": "不确定",
+   "url": "news/2026/2026-11-09.html#news-3"
   }
  ],
  "macro": [

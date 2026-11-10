@@ -4,15 +4,15 @@
 
 ## 每日要闻
 
-2026-11-08，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-09，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [市场聚焦通胀数据及中期选举后政策变化](news/2026/2026-11-08.md#news-1) | [Yahoo Finance](https://www.barchart.com/story/news/8725342/inflation-data-post-midterm-weakness-and-other-key-things-to-watch-this-week?.tsrc=rss) | 2026-11-08 13:00 | 不确定 | DIA QQQ SPY |
-| 2 | [英伟达董事会对其CEO黄仁勋涉嫌情报事件展开调查](news/2026/2026-11-08.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html) | 2026-11-08 17:53 | 利空 | NVDA QQQ |
-| 3 | [半导体板块震荡企稳 投资者逐渐消化大选与英伟达风波影响](news/2026/2026-11-08.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/amd-avgo-intc-mu-chip-stocks-inch-higher-as-investors-look-past-midterms-led-selloff-nvidia-controversy/cNGAD0CR9eR?.tsrc=rss) | 2026-11-08 22:34 | 利好 | AMD AVGO MU NVDA |
-| 4 | [苹果计划大幅升级Siri 拟引入现代Agentic AI能力](news/2026/2026-11-08.md#news-4) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/apple-bringing-agent-capabilities-to-siri-report-says-apple-s-ai-is-up-for-a-major-upgrade-as-ceo-ternus-pushes-for-faster-roadmap/cNGAymiR9e5?.tsrc=rss) | 2026-11-08 23:53 | 利好 | AAPL |
-| 5 | [Uber公布第三季度财报 订单量持续高增但出行增速放缓](news/2026/2026-11-08.md#news-5) | [Yahoo Finance](https://www.marketbeat.com/instant-alerts/transcript-what-uber-technologies-uber-said-on-its-q3-earnings-call-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss) | 2026-11-08 20:14 | 中性 | UBER |
+| 1 | [Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next](news/2026/2026-11-09.md#news-1) | [Yahoo Finance](https://finance.yahoo.com/m/db2f6d95-b7a5-3274-8193-c767d2b681c1/dow-jones-soars-1%2C132-points.html?.tsrc=rss) | 2026-11-09 21:31 | 不确定 |  |
+| 2 | [Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection](news/2026/2026-11-09.md#news-2) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-amd-jumps-on-oppenheimer-upgrade-and-google-cloud-chip-selection/?.tsrc=rss) | 2026-11-09 17:30 | 不确定 | AMD |
+| 3 | [Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund](news/2026/2026-11-09.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html) | 2026-11-09 18:05 | 不确定 |  |
+| 4 | [Stock Market Today, Nov. 9: Grab Holdings Jumps on Record Adjusted EBITDA and Q3 Revenue Beat](news/2026/2026-11-09.md#news-4) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-grab-holdings-jumps-on-record-adjusted-ebitda-and-q3-revenue-beat/?.tsrc=rss) | 2026-11-09 17:41 | 不确定 |  |
+| 5 | [As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal](news/2026/2026-11-09.md#news-5) | [MarketWatch](https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories) | 2026-11-09 16:55 | 不确定 |  |
 
 ## 宏观数据
 
