@@ -24,13 +24,13 @@
 | 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-06 | 4.51 | 4.46 |
 | 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-06 | 4.86 | 4.84 |
 | 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-09 | 0.32 | 0.35 |
-| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-06 | 25.64 | 28.18 |
+| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-09 | 19.92 | 25.64 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-03 | 99.64 | 100.06 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-06 | 121.8803 | 121.5061 |
 | 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-10-31 | 189000 | 195000 |
 | 30 年期房贷利率 | [MORTGAGE30US](https://fred.stlouisfed.org/series/MORTGAGE30US) | 周 | 2026-11-05 | 7.18 | 7.24 |
-| CPI | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) | 月 | 2026-09-01 | 336.298 | 334.131 |
-| 核心 CPI | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL) | 月 | 2026-09-01 | 338.896 | 337.765 |
+| CPI | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) | 月 | 2026-10-01 | 337.476 | 336.298 |
+| 核心 CPI | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL) | 月 | 2026-10-01 | 339.900 | 338.896 |
 | 核心 PCE 物价指数 | [PCEPILFE](https://fred.stlouisfed.org/series/PCEPILFE) | 月 | 2026-09-01 | 130.902 | 130.489 |
 | 失业率 | [UNRATE](https://fred.stlouisfed.org/series/UNRATE) | 月 | 2026-10-01 | 4.1 | 4.2 |
 | 非农就业人数 | [PAYEMS](https://fred.stlouisfed.org/series/PAYEMS) | 月 | 2026-10-01 | 159293 | 159128 |
@@ -42,6 +42,12 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-10 10:03 | JPM | JPMORGAN CHASE & CO | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/19617/000001961726000402/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
+| 2026-11-10 09:01 | QCOM | QUALCOMM INC/DE | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/804328/000009375126000708/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
+| 2026-11-10 08:41 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000797/tsm-boardx202611xx.htm) | 外国公司临时报告 |
+| 2026-11-10 07:22 | XOM | ExxonMobil Holdings Corp | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/2115436/000009375126000654/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
+| 2026-11-10 07:01 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000796/tsm-revenue20261110.htm) | 外国公司临时报告 |
+| 2026-11-10 06:51 | CSCO | CISCO SYSTEMS, INC. | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/858877/000009375126000630/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
 | 2026-11-09 20:45 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/886982/000088698226000597/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-09 20:40 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/886982/000088698226000595/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
 | 2026-11-09 20:37 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/886982/000088698226000593/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
@@ -56,29 +62,23 @@
 | 2026-11-09 19:53 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/886982/000088698226000571/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
 | 2026-11-09 19:48 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/886982/000088698226000568/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-09 19:44 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/886982/000088698226000566/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
-| 2026-11-09 16:33 | UNH | UNITEDHEALTH GROUP INC | [8-K](https://www.sec.gov/Archives/edgar/data/731766/000073176626000274/unh-20261103.htm) | 董事或高管变动 |
-| 2026-11-09 16:30 | AAPL | Apple Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/320193/000114036126042798/ef20085077_8k.htm) | 其他事件；财务报表和附件 |
-| 2026-11-09 15:33 | BAC | BANK OF AMERICA CORP /DE/ | [SCHEDULE 13D/A](https://www.sec.gov/Archives/edgar/data/70858/000007085826000570/xslSCHEDULE_13D_X02/primary_doc.xml) | 5% 以上股东（主动，修订） |
-| 2026-11-09 14:24 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/886982/000088698226000564/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
-| 2026-11-09 14:18 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/886982/000088698226000562/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
-| 2026-11-09 14:13 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/886982/000088698226000560/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 
 ## 最新内部人交易（Form 3/4/144）
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
-| 2026-11-09 18:09 | QCOM | QUALCOMM INC/DE | [4](https://www.sec.gov/Archives/edgar/data/804328/000080432826000132/xslF345X06/edgardoc.xml) | 内部人交易 |
-| 2026-11-09 18:04 | MSFT | MICROSOFT CORP | [4](https://www.sec.gov/Archives/edgar/data/789019/000078901926000230/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-09 17:34 | MU | MICRON TECHNOLOGY INC | [144](https://www.sec.gov/Archives/edgar/data/723125/000195004726010899/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-09 16:56 | CRCL | Circle Internet Group, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000313/xslF345X06/wk-form4_1794261401.xml) | 内部人交易 |
-| 2026-11-09 16:56 | CRCL | Circle Internet Group, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000312/xslF345X06/wk-form4_1794261373.xml) | 内部人交易 |
-| 2026-11-09 16:39 | V | VISA INC. | [144](https://www.sec.gov/Archives/edgar/data/1403161/000196430626000507/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-09 16:22 | META | Meta Platforms, Inc. | [144](https://www.sec.gov/Archives/edgar/data/1326801/000192109426001151/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-09 16:16 | BAC | BANK OF AMERICA CORP /DE/ | [4](https://www.sec.gov/Archives/edgar/data/70858/000007085826000572/xslF345X06/primary_doc.xml) | 内部人交易 |
-| 2026-11-09 16:15 | NFLX | NETFLIX INC | [144](https://www.sec.gov/Archives/edgar/data/1065280/000162828026072200/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-09 16:08 | BAC | BANK OF AMERICA CORP /DE/ | [4](https://www.sec.gov/Archives/edgar/data/70858/000007085826000571/xslF345X06/primary_doc.xml) | 内部人交易 |
-| 2026-11-09 16:06 | ABBV | AbbVie Inc. | [144](https://www.sec.gov/Archives/edgar/data/1551152/000195004726010822/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-09 14:08 | PG | PROCTER & GAMBLE Co | [144](https://www.sec.gov/Archives/edgar/data/80424/000008042426000274/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-09 13:46 | LIN | LINDE PLC | [144](https://www.sec.gov/Archives/edgar/data/1707925/000195917326007859/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-09 12:11 | CRCL | Circle Internet Group, Inc. | [144](https://www.sec.gov/Archives/edgar/data/1876042/000195917326007853/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-09 12:08 | KO | COCA COLA CO | [4](https://www.sec.gov/Archives/edgar/data/21344/000002134426000171/xslF345X06/form4.xml) | 内部人交易 |
+| 2026-11-10 06:41 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000794/xslF345X06/wk-form4_1794310898.xml) | 内部人交易 |
+| 2026-11-10 06:41 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000793/xslF345X06/wk-form4_1794310890.xml) | 内部人交易 |
+| 2026-11-10 06:41 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000792/xslF345X06/wk-form4_1794310883.xml) | 内部人交易 |
+| 2026-11-10 06:41 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000791/xslF345X06/wk-form4_1794310876.xml) | 内部人交易 |
+| 2026-11-10 06:41 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000790/xslF345X06/wk-form4_1794310870.xml) | 内部人交易 |
+| 2026-11-10 06:41 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000789/xslF345X06/wk-form4_1794310863.xml) | 内部人交易 |
+| 2026-11-10 06:38 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000782/xslF345X06/wk-form4_1794310702.xml) | 内部人交易 |
+| 2026-11-10 06:38 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000781/xslF345X06/wk-form4_1794310695.xml) | 内部人交易 |
+| 2026-11-10 06:38 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000780/xslF345X06/wk-form4_1794310688.xml) | 内部人交易 |
+| 2026-11-10 06:38 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000779/xslF345X06/wk-form4_1794310680.xml) | 内部人交易 |
+| 2026-11-10 06:37 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000778/xslF345X06/wk-form4_1794310674.xml) | 内部人交易 |
+| 2026-11-10 06:37 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000777/xslF345X06/wk-form4_1794310668.xml) | 内部人交易 |
+| 2026-11-10 06:37 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000776/xslF345X06/wk-form4_1794310662.xml) | 内部人交易 |
+| 2026-11-10 06:37 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000775/xslF345X06/wk-form4_1794310656.xml) | 内部人交易 |
+| 2026-11-10 06:37 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000774/xslF345X06/wk-form4_1794310650.xml) | 内部人交易 |
