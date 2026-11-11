@@ -4,19 +4,19 @@
 
 ## 每日要闻
 
-2026-11-09，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-10，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next](news/2026/2026-11-09.md#news-1) | [Yahoo Finance](https://finance.yahoo.com/m/db2f6d95-b7a5-3274-8193-c767d2b681c1/dow-jones-soars-1%2C132-points.html?.tsrc=rss) | 2026-11-09 21:31 | 不确定 |  |
-| 2 | [Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection](news/2026/2026-11-09.md#news-2) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-amd-jumps-on-oppenheimer-upgrade-and-google-cloud-chip-selection/?.tsrc=rss) | 2026-11-09 17:30 | 不确定 | AMD |
-| 3 | [Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund](news/2026/2026-11-09.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html) | 2026-11-09 18:05 | 不确定 |  |
-| 4 | [Stock Market Today, Nov. 9: Grab Holdings Jumps on Record Adjusted EBITDA and Q3 Revenue Beat](news/2026/2026-11-09.md#news-4) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-grab-holdings-jumps-on-record-adjusted-ebitda-and-q3-revenue-beat/?.tsrc=rss) | 2026-11-09 17:41 | 不确定 |  |
-| 5 | [As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal](news/2026/2026-11-09.md#news-5) | [MarketWatch](https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories) | 2026-11-09 16:55 | 不确定 |  |
+| 1 | [美国10月CPI环比上涨0.4%超预期，美联储控通胀进程遇阻](news/2026/2026-11-10.md#news-1) | [CNBC Economy](https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html) | 2026-11-10 18:53 | 利空 | DIA IVV QQQ SPY VOO |
+| 2 | [美联储理事沃勒称12月可能加息，不排除上调50个基点](news/2026/2026-11-10.md#news-2) | [CNBC Markets](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) | 2026-11-10 12:13 | 利空 | DIA GLD QQQ QQQM SPY |
+| 3 | [通胀与加息预期共振，10年期美债收益率逼近5%关口](news/2026/2026-11-10.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html) | 2026-11-10 16:06 | 利空 | DIA MAGS QQQ SPY VGT |
+| 4 | [受CEO黄仁勋风波持续影响，英伟达股价连续第二日大跌](news/2026/2026-11-10.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html) | 2026-11-10 17:08 | 利空 | AMD NVDA QQQ TSM VGT |
+| 5 | [好市多宣布派发30美元特别股息，总额达133亿美元](news/2026/2026-11-10.md#news-5) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/cost-stock-costco-special-dividend-share-buyback/cNGDee9R9Jj?.tsrc=rss) | 2026-11-10 20:59 | 利好 | COST SPY VOO |
 
 ## 宏观数据
 
-**AI 解读（2026-11-05）**：劳动力市场方面，截至10月31日当周首次申请失业救济人数录得189000人，较前值减少6000人。利率与债券市场方面，11月4日联邦基金有效利率持平于3.88%，10年期美债收益率下降5个基点至4.90%，2年期美债收益率下降3个基点至4.58%；11月5日10年与2年期美债利差为0.38%，30年期房贷利率降至7.18%。美债收益率高位运行叠加官员加息表态，与科技股估值重挫、避险情绪上升相互交织。
+**AI 解读（2026-11-10）**：最新公布的2026年10月CPI环比上涨0.35%至337.476，核心CPI环比上涨0.30%至339.900，通胀读数仍具粘性。受此影响，11月9日2年期美债收益率上行5个基点至4.56%，10年期美债收益率上行2个基点至4.88%，10年与2年期美债利差在11月10日降至0.25%，收益率曲线上行直接推高了市场的紧缩预期。此外，11月9日VIX波动率指数大幅下降22.31%至19.92，联邦基金有效利率维持在3.88%不变。
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|

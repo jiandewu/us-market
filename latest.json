@@ -1,22 +1,22 @@
 {
- "date": "2026-11-09",
- "updated": "2026-11-10T07:10:16+00:00",
- "summary": "",
+ "date": "2026-11-10",
+ "updated": "2026-11-11T06:05:02+00:00",
+ "summary": "受超预期的10月通胀数据与美联储官员偏鹰派加息表态打压，美债收益率全线走高，10年期美债收益率逼近5%关口，令美股承压下挫。与此同时，英伟达深陷管理层舆论危机持续拖累科技股表现，而好市多大额特别股息与个别AI基建财报则提供了局部支撑。",
  "items": [
   {
-   "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-09.html#news-1"
+   "title": "美国10月CPI环比上涨0.4%超预期，美联储控通胀进程遇阻",
+   "impact": "利空",
+   "url": "news/2026/2026-11-10.html#news-1"
   },
   {
-   "title": "Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-09.html#news-2"
+   "title": "美联储理事沃勒称12月可能加息，不排除上调50个基点",
+   "impact": "利空",
+   "url": "news/2026/2026-11-10.html#news-2"
   },
   {
-   "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-09.html#news-3"
+   "title": "通胀与加息预期共振，10年期美债收益率逼近5%关口",
+   "impact": "利空",
+   "url": "news/2026/2026-11-10.html#news-3"
   }
  ],
  "macro": [

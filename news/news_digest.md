@@ -2,6 +2,11 @@
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
+| 1 | [美国10月CPI环比上涨0.4%超预期，美联储控通胀进程遇阻](2026/2026-11-10.md#news-1) | [CNBC Economy](https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html) | 2026-11-10 18:53 | 利空 | DIA IVV QQQ SPY VOO |
+| 2 | [美联储理事沃勒称12月可能加息，不排除上调50个基点](2026/2026-11-10.md#news-2) | [CNBC Markets](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) | 2026-11-10 12:13 | 利空 | DIA GLD QQQ QQQM SPY |
+| 3 | [通胀与加息预期共振，10年期美债收益率逼近5%关口](2026/2026-11-10.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html) | 2026-11-10 16:06 | 利空 | DIA MAGS QQQ SPY VGT |
+| 4 | [受CEO黄仁勋风波持续影响，英伟达股价连续第二日大跌](2026/2026-11-10.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html) | 2026-11-10 17:08 | 利空 | AMD NVDA QQQ TSM VGT |
+| 5 | [好市多宣布派发30美元特别股息，总额达133亿美元](2026/2026-11-10.md#news-5) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/cost-stock-costco-special-dividend-share-buyback/cNGDee9R9Jj?.tsrc=rss) | 2026-11-10 20:59 | 利好 | COST SPY VOO |
 | 1 | [Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next](2026/2026-11-09.md#news-1) | [Yahoo Finance](https://finance.yahoo.com/m/db2f6d95-b7a5-3274-8193-c767d2b681c1/dow-jones-soars-1%2C132-points.html?.tsrc=rss) | 2026-11-09 21:31 | 不确定 |  |
 | 2 | [Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection](2026/2026-11-09.md#news-2) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-amd-jumps-on-oppenheimer-upgrade-and-google-cloud-chip-selection/?.tsrc=rss) | 2026-11-09 17:30 | 不确定 | AMD |
 | 3 | [Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund](2026/2026-11-09.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html) | 2026-11-09 18:05 | 不确定 |  |
