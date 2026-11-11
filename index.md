@@ -24,7 +24,7 @@
 | 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-09 | 4.56 | 4.51 |
 | 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-09 | 4.88 | 4.86 |
 | 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-10 | 0.25 | 0.32 |
-| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-09 | 19.92 | 25.64 |
+| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-10 | 19.46 | 19.92 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-03 | 99.64 | 100.06 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-06 | 121.8803 | 121.5061 |
 | 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-10-31 | 189000 | 195000 |
