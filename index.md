@@ -24,10 +24,10 @@
 | 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-09 | 4.56 | 4.51 |
 | 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-09 | 4.88 | 4.86 |
 | 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-10 | 0.25 | 0.32 |
-| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-10 | 19.46 | 19.92 |
+| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-11 | 17.49 | 19.46 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-03 | 99.64 | 100.06 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-06 | 121.8803 | 121.5061 |
-| 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-10-31 | 189000 | 195000 |
+| 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-11-07 | 200000 | 191000 |
 | 30 年期房贷利率 | [MORTGAGE30US](https://fred.stlouisfed.org/series/MORTGAGE30US) | 周 | 2026-11-05 | 7.18 | 7.24 |
 | CPI | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) | 月 | 2026-10-01 | 337.476 | 336.298 |
 | 核心 CPI | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL) | 月 | 2026-10-01 | 339.900 | 338.896 |
@@ -42,6 +42,8 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-12 08:52 | NVDA | NVIDIA CORP | [8-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm) | 董事或高管变动；财务报表和附件 |
+| 2026-11-12 08:03 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm) | 外国公司临时报告 |
 | 2026-11-10 20:10 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/886982/000088698226000638/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-10 19:57 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/886982/000088698226000634/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-10 19:53 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/886982/000088698226000631/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
@@ -60,13 +62,19 @@
 | 2026-11-10 19:10 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/886982/000088698226000602/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
 | 2026-11-10 19:07 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/886982/000088698226000600/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-10 16:16 | COST | COSTCO WHOLESALE CORP /NEW | [8-K](https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/cost-20261107.htm) | 董事或高管变动；其他事件；财务报表和附件 |
-| 2026-11-10 15:09 | BAC | BANK OF AMERICA CORP /DE/ | [SCHEDULE 13D/A](https://www.sec.gov/Archives/edgar/data/70858/000007085826000575/xslSCHEDULE_13D_X02/primary_doc.xml) | 5% 以上股东（主动，修订） |
-| 2026-11-10 10:03 | JPM | JPMORGAN CHASE & CO | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/19617/000001961726000402/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
 
 ## 最新内部人交易（Form 3/4/144）
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-12 10:00 | JNJ | JOHNSON & JOHNSON | [144](https://www.sec.gov/Archives/edgar/data/200406/000195917326007955/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-12 09:50 | COST | COSTCO WHOLESALE CORP /NEW | [144](https://www.sec.gov/Archives/edgar/data/909832/000195917326007954/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-12 08:48 | CVX | CHEVRON CORP | [144](https://www.sec.gov/Archives/edgar/data/93410/000195004726011010/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-12 08:32 | MU | MICRON TECHNOLOGY INC | [144](https://www.sec.gov/Archives/edgar/data/723125/000195004726011002/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-12 08:31 | MU | MICRON TECHNOLOGY INC | [144](https://www.sec.gov/Archives/edgar/data/723125/000195004726011000/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-12 08:29 | AMD | ADVANCED MICRO DEVICES INC | [144](https://www.sec.gov/Archives/edgar/data/2488/000195004726010998/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-12 07:58 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726010983/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-12 07:43 | COST | COSTCO WHOLESALE CORP /NEW | [144](https://www.sec.gov/Archives/edgar/data/909832/000195917326007945/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-10 19:53 | NOW | ServiceNow, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1373715/000211192926000018/xslF345X06/wk-form4_1794358409.xml) | 内部人交易 |
 | 2026-11-10 19:53 | NOW | ServiceNow, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1373715/000164960926000039/xslF345X06/wk-form4_1794358385.xml) | 内部人交易 |
 | 2026-11-10 19:53 | NOW | ServiceNow, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1373715/000133494426000038/xslF345X06/wk-form4_1794358379.xml) | 内部人交易 |
@@ -74,11 +82,3 @@
 | 2026-11-10 18:06 | MSFT | MICROSOFT CORP | [4](https://www.sec.gov/Archives/edgar/data/789019/000078901926000232/xslF345X06/form4.xml) | 内部人交易 |
 | 2026-11-10 17:54 | INTU | INTUIT INC. | [4](https://www.sec.gov/Archives/edgar/data/896878/000162828026072884/xslF345X06/wk-form4_1794351274.xml) | 内部人交易 |
 | 2026-11-10 17:52 | INTU | INTUIT INC. | [4](https://www.sec.gov/Archives/edgar/data/896878/000162828026072880/xslF345X06/wk-form4_1794351175.xml) | 内部人交易 |
-| 2026-11-10 17:51 | INTU | INTUIT INC. | [4](https://www.sec.gov/Archives/edgar/data/896878/000162828026072877/xslF345X06/wk-form4_1794351109.xml) | 内部人交易 |
-| 2026-11-10 17:48 | INTU | INTUIT INC. | [4](https://www.sec.gov/Archives/edgar/data/896878/000162828026072874/xslF345X06/wk-form4_1794350927.xml) | 内部人交易 |
-| 2026-11-10 17:45 | INTU | INTUIT INC. | [4](https://www.sec.gov/Archives/edgar/data/896878/000162828026072871/xslF345X06/wk-form4_1794350746.xml) | 内部人交易 |
-| 2026-11-10 17:43 | INTU | INTUIT INC. | [4](https://www.sec.gov/Archives/edgar/data/896878/000162828026072869/xslF345X06/wk-form4_1794350583.xml) | 内部人交易 |
-| 2026-11-10 17:39 | INTU | INTUIT INC. | [4](https://www.sec.gov/Archives/edgar/data/896878/000162828026072863/xslF345X06/wk-form4_1794350375.xml) | 内部人交易 |
-| 2026-11-10 16:51 | CRCL | Circle Internet Group, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000314/xslF345X06/wk-form4_1794347467.xml) | 内部人交易 |
-| 2026-11-10 16:38 | LLY | ELI LILLY & Co | [4](https://www.sec.gov/Archives/edgar/data/59478/000178605426000008/xslF345X06/wk-form4_1794346693.xml) | 内部人交易 |
-| 2026-11-10 16:26 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726010948/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
