@@ -4,15 +4,15 @@
 
 ## 每日要闻
 
-2026-11-10，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-11，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [美国10月CPI环比上涨0.4%超预期，美联储控通胀进程遇阻](news/2026/2026-11-10.md#news-1) | [CNBC Economy](https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html) | 2026-11-10 18:53 | 利空 | DIA IVV QQQ SPY VOO |
-| 2 | [美联储理事沃勒称12月可能加息，不排除上调50个基点](news/2026/2026-11-10.md#news-2) | [CNBC Markets](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) | 2026-11-10 12:13 | 利空 | DIA GLD QQQ QQQM SPY |
-| 3 | [通胀与加息预期共振，10年期美债收益率逼近5%关口](news/2026/2026-11-10.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html) | 2026-11-10 16:06 | 利空 | DIA MAGS QQQ SPY VGT |
-| 4 | [受CEO黄仁勋风波持续影响，英伟达股价连续第二日大跌](news/2026/2026-11-10.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html) | 2026-11-10 17:08 | 利空 | AMD NVDA QQQ TSM VGT |
-| 5 | [好市多宣布派发30美元特别股息，总额达133亿美元](news/2026/2026-11-10.md#news-5) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/cost-stock-costco-special-dividend-share-buyback/cNGDee9R9Jj?.tsrc=rss) | 2026-11-10 20:59 | 利好 | COST SPY VOO |
+| 1 | [Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes](news/2026/2026-11-11.md#news-1) | [CNBC Markets](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html) | 2026-11-11 11:49 | 不确定 |  |
+| 2 | [Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight](news/2026/2026-11-11.md#news-2) | [CNBC Economy](https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html) | 2026-11-10 18:53 | 不确定 |  |
+| 3 | [Nasdaq 100 Futures Drop As Reports Relating To Jensen Huang’s Ousting Outweigh CoreWeave’s Strong Outlook — NVDA, TSLA, SNDK, CAPR, CRWV In Focus](news/2026/2026-11-11.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-drop-as-reports-relating-to-jensen-huang-s-ousting/cNGzQslR997?.tsrc=rss) | 2026-11-11 19:22 | 不确定 | NVDA TSLA |
+| 4 | [Dow, S&P 500, Nasdaq Futures Mixed As Tech Rebounds Despite Nvidia CEO Crisis: AMD, CSCO, AMAT In Focus](news/2026/2026-11-11.md#news-4) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-as-tech-rebounds-despite-nvidia-ceo-crisis-amd-csco-amat-in-focus/cNGzKh7R99W?.tsrc=rss) | 2026-11-11 22:15 | 不确定 | AMD CSCO |
+| 5 | [Every December the Nasdaq-100 Reshuffles. QQQ Holders Feel It Even If They Never Trade](news/2026/2026-11-11.md#news-5) | [Yahoo Finance](https://247wallst.com/investing/etf/2026/11/11/every-december-the-nasdaq-100-reshuffles-qqq-holders-feel-it-even-if-they-never-trade/?.tsrc=rss) | 2026-11-11 18:03 | 不确定 | QQQ |
 
 ## 宏观数据
 
