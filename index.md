@@ -24,7 +24,7 @@
 | 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-10 | 4.73 | 4.56 |
 | 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-10 | 4.98 | 4.88 |
 | 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-12 | 0.24 | 0.25 |
-| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-11 | 17.49 | 19.46 |
+| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-12 | 18.70 | 17.49 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-11 | 89.62 | 89.62 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-06 | 121.8803 | 121.5061 |
 | 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-11-07 | 200000 | 191000 |
@@ -42,6 +42,8 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-13 09:34 | WFC | WELLS FARGO & COMPANY/MN | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/72971/000007297126000340/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
+| 2026-11-13 06:02 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000801/tsm-fsx20261113x6k.htm) | 外国公司临时报告 |
 | 2026-11-12 16:27 | META | Meta Platforms, Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/d177728d8k.htm) | 其他事件；财务报表和附件 |
 | 2026-11-12 16:16 | AMZN | AMAZON COM INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1018724/000110465926126255/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
 | 2026-11-12 16:06 | CSCO | CISCO SYSTEMS, INC. | [8-K](https://www.sec.gov/Archives/edgar/data/858877/000085887726000170/csco-20261112.htm) | 经营业绩；财务报表和附件 |
@@ -60,8 +62,6 @@
 | 2026-11-10 19:29 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/886982/000088698226000616/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-10 19:26 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/886982/000088698226000614/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
 | 2026-11-10 19:22 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/886982/000088698226000612/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
-| 2026-11-10 19:17 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/886982/000088698226000608/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
-| 2026-11-10 19:15 | GS | GOLDMAN SACHS GROUP INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/886982/000088698226000606/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
 
 ## 最新内部人交易（Form 3/4/144）
 
