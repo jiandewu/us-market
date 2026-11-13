@@ -4,15 +4,15 @@
 
 ## 每日要闻
 
-2026-11-11，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-12，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes](news/2026/2026-11-11.md#news-1) | [CNBC Markets](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html) | 2026-11-11 11:49 | 不确定 |  |
-| 2 | [Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight](news/2026/2026-11-11.md#news-2) | [CNBC Economy](https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html) | 2026-11-10 18:53 | 不确定 |  |
-| 3 | [Nasdaq 100 Futures Drop As Reports Relating To Jensen Huang’s Ousting Outweigh CoreWeave’s Strong Outlook — NVDA, TSLA, SNDK, CAPR, CRWV In Focus](news/2026/2026-11-11.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-drop-as-reports-relating-to-jensen-huang-s-ousting/cNGzQslR997?.tsrc=rss) | 2026-11-11 19:22 | 不确定 | NVDA TSLA |
-| 4 | [Dow, S&P 500, Nasdaq Futures Mixed As Tech Rebounds Despite Nvidia CEO Crisis: AMD, CSCO, AMAT In Focus](news/2026/2026-11-11.md#news-4) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-as-tech-rebounds-despite-nvidia-ceo-crisis-amd-csco-amat-in-focus/cNGzKh7R99W?.tsrc=rss) | 2026-11-11 22:15 | 不确定 | AMD CSCO |
-| 5 | [Every December the Nasdaq-100 Reshuffles. QQQ Holders Feel It Even If They Never Trade](news/2026/2026-11-11.md#news-5) | [Yahoo Finance](https://247wallst.com/investing/etf/2026/11/11/every-december-the-nasdaq-100-reshuffles-qqq-holders-feel-it-even-if-they-never-trade/?.tsrc=rss) | 2026-11-11 18:03 | 不确定 | QQQ |
+| 1 | [S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure — CRWV, CBRS, NVDA, TSLA In Focus](news/2026/2026-11-12.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-recover-after-markets-end-lower-on-jensen-huang-s-exit-oil-price-pressure-crwv-cbrs-nvda-tsla-in-focus/cNbbkHFR9OI?.tsrc=rss) | 2026-11-12 19:19 | 不确定 | NVDA TSLA |
+| 2 | [In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates](news/2026/2026-11-12.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html) | 2026-11-12 14:05 | 不确定 |  |
+| 3 | [Stock Market Today, Nov. 12: AMD Jumps 5.9% on Bank of America Price Target Hike to $700](news/2026/2026-11-12.md#news-3) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-amd-jumps-59-on-bank-of-america-price-target-hike-to-700/?.tsrc=rss) | 2026-11-12 17:20 | 不确定 | AMD |
+| 4 | [Now Comes the Hard Part for the Stock Market](news/2026/2026-11-12.md#news-4) | [Yahoo Finance](https://finance.yahoo.com/m/29a9f4ff-d04d-3c7e-9047-57cab19ef788/now-comes-the-hard-part-for.html?.tsrc=rss) | 2026-11-12 17:53 | 不确定 | NOW |
+| 5 | [XOM, CVX, COP: This Analyst Trims Price Targets, Warns Oil Stocks May 'Struggle To Appreciate'](news/2026/2026-11-12.md#news-5) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/xom-cvx-cop-this-analyst-trims-price-targets-warns-oil-stocks-may-struggle-to-appreciate/cNbbN7xR9Oa?.tsrc=rss) | 2026-11-12 20:49 | 不确定 | CVX XOM |
 
 ## 宏观数据
 
