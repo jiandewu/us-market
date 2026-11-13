@@ -32,25 +32,25 @@
    "id": "DGS10",
    "name": "10 年期美债收益率",
    "unit": "%",
-   "date": "2026-11-09",
-   "value": 4.88,
-   "previous": 4.86
+   "date": "2026-11-10",
+   "value": 4.98,
+   "previous": 4.88
   },
   {
    "id": "DCOILWTICO",
    "name": "WTI 原油价格",
    "unit": "$",
-   "date": "2026-11-03",
-   "value": 99.64,
-   "previous": 100.06
+   "date": "2026-11-11",
+   "value": 89.62,
+   "previous": 89.62
   },
   {
    "id": "MORTGAGE30US",
    "name": "30 年期房贷利率",
    "unit": "%",
-   "date": "2026-11-05",
-   "value": 7.18,
-   "previous": 7.24
+   "date": "2026-11-12",
+   "value": 7.11,
+   "previous": 7.18
   }
  ]
 }
