@@ -1,22 +1,22 @@
 {
- "date": "2026-11-12",
- "updated": "2026-11-13T06:32:58+00:00",
- "summary": "",
+ "date": "2026-11-13",
+ "updated": "2026-11-14T06:11:36+00:00",
+ "summary": "美股今日整体震荡收低，受到生产者物价指数（PPI）显示批发通胀强劲以及美债收益率突破5%关口的压制。与此同时，英伟达CEO黄仁勋离职引发的科技股及芯片板块抛售潮持续发酵，拖累纳斯达克及大盘表现。",
  "items": [
   {
-   "title": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure — CRWV, CBRS, NVDA, TSLA In Focus",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-12.html#news-1"
+   "title": "美国10月批发物价同比上涨6.5% 创近四年新高",
+   "impact": "利空",
+   "url": "news/2026/2026-11-13.html#news-1"
   },
   {
-   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-12.html#news-2"
+   "title": "英伟达遭12年来最长周连跌 首席执行官辞职加剧抛售",
+   "impact": "利空",
+   "url": "news/2026/2026-11-13.html#news-2"
   },
   {
-   "title": "Stock Market Today, Nov. 12: AMD Jumps 5.9% on Bank of America Price Target Hike to $700",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-12.html#news-3"
+   "title": "芯片板块狂欢逆转 AMD大跌8.75%引爆获利了结潮",
+   "impact": "利空",
+   "url": "news/2026/2026-11-13.html#news-3"
   }
  ],
  "macro": [

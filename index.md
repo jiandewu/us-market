@@ -4,19 +4,19 @@
 
 ## 每日要闻
 
-2026-11-12，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-13，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure — CRWV, CBRS, NVDA, TSLA In Focus](news/2026/2026-11-12.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-recover-after-markets-end-lower-on-jensen-huang-s-exit-oil-price-pressure-crwv-cbrs-nvda-tsla-in-focus/cNbbkHFR9OI?.tsrc=rss) | 2026-11-12 19:19 | 不确定 | NVDA TSLA |
-| 2 | [In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates](news/2026/2026-11-12.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html) | 2026-11-12 14:05 | 不确定 |  |
-| 3 | [Stock Market Today, Nov. 12: AMD Jumps 5.9% on Bank of America Price Target Hike to $700](news/2026/2026-11-12.md#news-3) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-amd-jumps-59-on-bank-of-america-price-target-hike-to-700/?.tsrc=rss) | 2026-11-12 17:20 | 不确定 | AMD |
-| 4 | [Now Comes the Hard Part for the Stock Market](news/2026/2026-11-12.md#news-4) | [Yahoo Finance](https://finance.yahoo.com/m/29a9f4ff-d04d-3c7e-9047-57cab19ef788/now-comes-the-hard-part-for.html?.tsrc=rss) | 2026-11-12 17:53 | 不确定 | NOW |
-| 5 | [XOM, CVX, COP: This Analyst Trims Price Targets, Warns Oil Stocks May 'Struggle To Appreciate'](news/2026/2026-11-12.md#news-5) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/xom-cvx-cop-this-analyst-trims-price-targets-warns-oil-stocks-may-struggle-to-appreciate/cNbbN7xR9Oa?.tsrc=rss) | 2026-11-12 20:49 | 不确定 | CVX XOM |
+| 1 | [美国10月批发物价同比上涨6.5% 创近四年新高](news/2026/2026-11-13.md#news-1) | [CNBC Top News](https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html) | 2026-11-13 10:44 | 利空 | DIA IVV QQQ SPY VOO |
+| 2 | [英伟达遭12年来最长周连跌 首席执行官辞职加剧抛售](news/2026/2026-11-13.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html) | 2026-11-13 17:18 | 利空 | MAGS NVDA QQQ VGT |
+| 3 | [芯片板块狂欢逆转 AMD大跌8.75%引爆获利了结潮](news/2026/2026-11-13.md#news-3) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/?.tsrc=rss) | 2026-11-13 17:13 | 利空 | AMD AVGO NVDA QCOM |
+| 4 | [芝加哥联储主席古尔斯比警告：美联储在通胀问题上仍有工作要做](news/2026/2026-11-13.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) | 2026-11-13 09:22 | 利空 | DIA QQQ SPY |
+| 5 | [OpenAI推出ChatGPT Wallet 联合美国运通等拓展AI支付](news/2026/2026-11-13.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html) | 2026-11-13 13:56 | 利好 | AXP MA MSFT V |
 
 ## 宏观数据
 
-**AI 解读（2026-11-10）**：最新公布的2026年10月CPI环比上涨0.35%至337.476，核心CPI环比上涨0.30%至339.900，通胀读数仍具粘性。受此影响，11月9日2年期美债收益率上行5个基点至4.56%，10年期美债收益率上行2个基点至4.88%，10年与2年期美债利差在11月10日降至0.25%，收益率曲线上行直接推高了市场的紧缩预期。此外，11月9日VIX波动率指数大幅下降22.31%至19.92，联邦基金有效利率维持在3.88%不变。
+**AI 解读（2026-11-13）**：在2026年11月12日公布的宏观数据中，10年期美债收益率上升12个基点至5.10%，2年期美债收益率上升13个基点至4.86%，收益率走高与新闻中提到的批发通胀升至6.5%引发的加息担忧相呼应；VIX指数上涨6.92%至18.70，反映市场对高通胀和芯片巨头高管变动的焦虑情绪上升；联邦基金有效利率维持在3.88%不变。
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
