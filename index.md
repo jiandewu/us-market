@@ -4,15 +4,15 @@
 
 ## 每日要闻
 
-2026-11-13，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-14，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [美国10月批发物价同比上涨6.5% 创近四年新高](news/2026/2026-11-13.md#news-1) | [CNBC Top News](https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html) | 2026-11-13 10:44 | 利空 | DIA IVV QQQ SPY VOO |
-| 2 | [英伟达遭12年来最长周连跌 首席执行官辞职加剧抛售](news/2026/2026-11-13.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html) | 2026-11-13 17:18 | 利空 | MAGS NVDA QQQ VGT |
-| 3 | [芯片板块狂欢逆转 AMD大跌8.75%引爆获利了结潮](news/2026/2026-11-13.md#news-3) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/?.tsrc=rss) | 2026-11-13 17:13 | 利空 | AMD AVGO NVDA QCOM |
-| 4 | [芝加哥联储主席古尔斯比警告：美联储在通胀问题上仍有工作要做](news/2026/2026-11-13.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) | 2026-11-13 09:22 | 利空 | DIA QQQ SPY |
-| 5 | [OpenAI推出ChatGPT Wallet 联合美国运通等拓展AI支付](news/2026/2026-11-13.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html) | 2026-11-13 13:56 | 利好 | AXP MA MSFT V |
+| 1 | [英伟达高管变动引发股价暴跌，竞争对手和相关概念股受波及](news/2026/2026-11-14.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-amid-nvidia-turmoil-but-record-best-week-since-august-spcx-nvda-arm-azn-in-focus/cNbRj3uR9Q2?.tsrc=rss) | 2026-11-13 18:37 | 利空 | AMD AVGO NVDA QQQ SPY |
+| 2 | [中美探讨削减关税并推进600亿美元贸易协议](news/2026/2026-11-14.md#news-2) | [Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/china-u-discuss-tariff-cuts-092147009.html?.tsrc=rss) | 2026-11-14 04:21 | 利好 | AAPL DIA QQQ SPY |
+| 3 | [Anthropic寻求最高1.4万亿美元估值上市，检验市场对AI信心](news/2026/2026-11-14.md#news-3) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html?.tsrc=rss) | 2026-11-14 13:00 | 不确定 | AMZN GOOGL MSFT QQQ |
+| 4 | [美国财长警告美联储勿过度加息，美债市场陷入政策博弈](news/2026/2026-11-14.md#news-4) | [Yahoo Finance](https://247wallst.com/investing/2026/11/14/bessent-tells-the-fed-not-to-hike-too-much/?.tsrc=rss) | 2026-11-14 08:38 | 中性 | DIA QQQ SPY |
+| 5 | [伯克希尔哈撒韦股价创历史新高，四季度涨幅达19%](news/2026/2026-11-14.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html) | 2026-11-14 09:02 | 利好 | BRK-B SPY |
 
 ## 宏观数据
 
