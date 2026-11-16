@@ -2,6 +2,11 @@
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
+| 1 | [黄仁勋突然离职引发震动，英伟达迎来华尔街近年来最受瞩目的财报电话会](2026/2026-11-15.md#news-1) | [MarketWatch](https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories) | 2026-11-15 16:32 | 不确定 | NVDA QQQ SPY |
+| 2 | [美政府计划将英伟达、亚马逊及微软等列入 AI“国家冠军”企业名单](2026/2026-11-15.md#news-2) | [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/u-plans-name-nvidia-among-053052700.html?.tsrc=rss) | 2026-11-16 00:30 | 利好 | AMZN MSFT NVDA |
+| 3 | [Anthropic 首次公开募股即将来袭，承载 AI 交易复苏希望](2026/2026-11-15.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html) | 2026-11-15 07:00 | 利好 | AMZN GOOGL QQQ |
+| 4 | [强生公司拟以最高 34 亿美元收购眼科药物开发商 Ollin Biosciences](2026/2026-11-15.md#news-4) | [Nasdaq](https://www.nasdaq.com/articles/johnson-johnson-set-buy-ollin-biosciences-34-bln-report) | 2026-11-15 21:57 | 中性 | JNJ |
+| 5 | [供应链分析师指 OpenAI 与 Anthropic 新芯片订单提升谷歌 TPU 前景](2026/2026-11-15.md#news-5) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/more-pain-for-nvda-top-supply-chain-analyst-says-new-open-ai-anthropic-chip-orders-boost-google-s-tpu-outlook/cNb7fwwR9X7?.tsrc=rss) | 2026-11-16 00:03 | 不确定 | GOOG GOOGL NVDA |
 | 1 | [英伟达高管变动引发股价暴跌，竞争对手和相关概念股受波及](2026/2026-11-14.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-amid-nvidia-turmoil-but-record-best-week-since-august-spcx-nvda-arm-azn-in-focus/cNbRj3uR9Q2?.tsrc=rss) | 2026-11-13 18:37 | 利空 | AMD AVGO NVDA QQQ SPY |
 | 2 | [中美探讨削减关税并推进600亿美元贸易协议](2026/2026-11-14.md#news-2) | [Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/china-u-discuss-tariff-cuts-092147009.html?.tsrc=rss) | 2026-11-14 04:21 | 利好 | AAPL DIA QQQ SPY |
 | 3 | [Anthropic寻求最高1.4万亿美元估值上市，检验市场对AI信心](2026/2026-11-14.md#news-3) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html?.tsrc=rss) | 2026-11-14 13:00 | 不确定 | AMZN GOOGL MSFT QQQ |
