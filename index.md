@@ -34,7 +34,7 @@
 | 核心 PCE 物价指数 | [PCEPILFE](https://fred.stlouisfed.org/series/PCEPILFE) | 月 | 2026-09-01 | 130.902 | 130.489 |
 | 失业率 | [UNRATE](https://fred.stlouisfed.org/series/UNRATE) | 月 | 2026-10-01 | 4.1 | 4.2 |
 | 非农就业人数 | [PAYEMS](https://fred.stlouisfed.org/series/PAYEMS) | 月 | 2026-10-01 | 159293 | 159128 |
-| 零售销售 | [RSAFS](https://fred.stlouisfed.org/series/RSAFS) | 月 | 2026-09-01 | 745021 | 739322 |
+| 零售销售 | [RSAFS](https://fred.stlouisfed.org/series/RSAFS) | 月 | 2026-10-01 | 748220 | 746637 |
 | 密歇根消费者信心 | [UMCSENT](https://fred.stlouisfed.org/series/UMCSENT) | 月 | 2026-09-01 | 48.1 | 51.7 |
 | 实际 GDP | [GDPC1](https://fred.stlouisfed.org/series/GDPC1) | 季 | 2026-07-01 | 24611.077 | 24408.011 |
 
@@ -42,6 +42,9 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-17 08:00 | JPM | JPMORGAN CHASE & CO | [8-K](https://www.sec.gov/Archives/edgar/data/19617/000001961726000407/jpm-20261117.htm) | 董事或高管变动 |
+| 2026-11-17 06:18 | HD | HOME DEPOT, INC. | [8-K](https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/hd-20261117.htm) | 经营业绩；财务报表和附件 |
+| 2026-11-17 06:08 | HD | HOME DEPOT, INC. | [8-K](https://www.sec.gov/Archives/edgar/data/354950/000035495026000182/hd-20261113.htm) | 董事或高管变动；Reg FD 披露；财务报表和附件 |
 | 2026-11-16 21:30 | UBER | Uber Technologies, Inc | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000562/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
 | 2026-11-16 20:57 | BRK-B | BERKSHIRE HATHAWAY INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1067983/000119312526464219/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-16 20:57 | BRK-B | BERKSHIRE HATHAWAY INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1067983/000119312526464218/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
@@ -59,9 +62,6 @@
 | 2026-11-16 09:01 | BAC | BANK OF AMERICA CORP /DE/ | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/70858/000007085826000586/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-16 07:58 | WMT | Walmart Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/104169/000010416926000165/wmt-20261113.htm) | 董事或高管变动；财务报表和附件 |
 | 2026-11-13 21:05 | SPCX | SPACE EXPLORATION TECHNOLOGIES CORP | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1181412/000142601226000007/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
-| 2026-11-13 17:59 | ABT | ABBOTT LABORATORIES | [8-K](https://www.sec.gov/Archives/edgar/data/1800/000110465926127273/tm2629582d1_8k.htm) | 董事或高管变动 |
-| 2026-11-13 17:40 | MS | MORGAN STANLEY | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/895421/000089542126000356/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
-| 2026-11-13 17:36 | MS | MORGAN STANLEY | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/895421/000089542126000355/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 
 ## 最新内部人交易（Form 3/4/144）
 
