@@ -4,15 +4,15 @@
 
 ## 每日要闻
 
-2026-11-15，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-16，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [黄仁勋突然离职引发震动，英伟达迎来华尔街近年来最受瞩目的财报电话会](news/2026/2026-11-15.md#news-1) | [MarketWatch](https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories) | 2026-11-15 16:32 | 不确定 | NVDA QQQ SPY |
-| 2 | [美政府计划将英伟达、亚马逊及微软等列入 AI“国家冠军”企业名单](news/2026/2026-11-15.md#news-2) | [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/u-plans-name-nvidia-among-053052700.html?.tsrc=rss) | 2026-11-16 00:30 | 利好 | AMZN MSFT NVDA |
-| 3 | [Anthropic 首次公开募股即将来袭，承载 AI 交易复苏希望](news/2026/2026-11-15.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html) | 2026-11-15 07:00 | 利好 | AMZN GOOGL QQQ |
-| 4 | [强生公司拟以最高 34 亿美元收购眼科药物开发商 Ollin Biosciences](news/2026/2026-11-15.md#news-4) | [Nasdaq](https://www.nasdaq.com/articles/johnson-johnson-set-buy-ollin-biosciences-34-bln-report) | 2026-11-15 21:57 | 中性 | JNJ |
-| 5 | [供应链分析师指 OpenAI 与 Anthropic 新芯片订单提升谷歌 TPU 前景](news/2026/2026-11-15.md#news-5) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/more-pain-for-nvda-top-supply-chain-analyst-says-new-open-ai-anthropic-chip-orders-boost-google-s-tpu-outlook/cNb7fwwR9X7?.tsrc=rss) | 2026-11-16 00:03 | 不确定 | GOOG GOOGL NVDA |
+| 1 | [Dow, S&P 500, Nasdaq Futures Mixed Ahead Of Much-Anticipated Nvidia Earnings, Anthropic IPO: SLS, BABA, JPM, OMER In Focus](news/2026/2026-11-16.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-ahead-of-much-anticipated-nvidia-earnings-anthropic-ipo-sls-baba-jpm-omer-in-focus/cNba1SfR9gr?.tsrc=rss) | 2026-11-16 23:06 | 不确定 | JPM |
+| 2 | [Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck](news/2026/2026-11-16.md#news-2) | [Yahoo Finance](https://finance.yahoo.com/m/d0a3411e-5f2b-302d-801a-a42b1d7ca5ea/dow-jones-futures%3A-amd%2C.html?.tsrc=rss) | 2026-11-16 22:20 | 不确定 | AMD |
+| 3 | [S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week — NVDA, TSLA, ANT In Focus](news/2026/2026-11-16.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-investors-hold-back-ahead-of-nvidia-earnings-anthropic-ipo/cNbaf4PR9gk?.tsrc=rss) | 2026-11-16 19:09 | 不确定 | NVDA TSLA |
+| 4 | [Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means](news/2026/2026-11-16.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html) | 2026-11-16 19:42 | 不确定 | NOW |
+| 5 | [Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’](news/2026/2026-11-16.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html) | 2026-11-16 13:46 | 不确定 |  |
 
 ## 宏观数据
 
