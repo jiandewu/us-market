@@ -24,7 +24,7 @@
 | 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-16 | 4.83 | 4.88 |
 | 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-16 | 5.12 | 5.15 |
 | 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-17 | 0.30 | 0.29 |
-| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-16 | 22.91 | 19.30 |
+| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-17 | 25.46 | 22.91 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-11 | 89.62 | 89.62 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-13 | 122.6503 | 122.5433 |
 | 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-11-07 | 200000 | 191000 |
@@ -67,6 +67,9 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-18 10:05 | NOW | ServiceNow, Inc. | [144](https://www.sec.gov/Archives/edgar/data/1373715/000195917326008120/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-18 09:38 | AMZN | AMAZON COM INC | [144](https://www.sec.gov/Archives/edgar/data/1018724/000195917326008114/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-18 06:03 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000803/xslF345X06/wk-form4_1794999834.xml) | 内部人交易 |
 | 2026-11-17 20:01 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000182395226000026/xslF345X06/wk-form4_1794963692.xml) | 内部人交易 |
 | 2026-11-17 19:27 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017707/xslF345X06/ownership.xml) | 内部人交易 |
 | 2026-11-17 19:25 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017706/xslF345X06/ownership.xml) | 内部人交易 |
@@ -79,6 +82,3 @@
 | 2026-11-17 19:18 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017700/xslF345X06/ownership.xml) | 内部人交易 |
 | 2026-11-17 19:15 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017699/xslF345X06/ownership.xml) | 内部人交易 |
 | 2026-11-17 19:15 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017698/xslF345X06/ownership.xml) | 内部人交易 |
-| 2026-11-17 19:14 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017697/xslF345X06/ownership.xml) | 内部人交易 |
-| 2026-11-17 19:12 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017696/xslF345X06/ownership.xml) | 内部人交易 |
-| 2026-11-17 18:52 | NOW | ServiceNow, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1373715/000211192926000020/xslF345X06/wk-form4_1794959563.xml) | 内部人交易 |
