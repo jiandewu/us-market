@@ -2,6 +2,11 @@
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
+| 1 | [英伟达业绩超预期并上调指引，提振美股科技股盘后反弹](2026/2026-11-17.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-lead-wall-street-rebound-after-nvidia-s-blowout-forecast-anthropic-ipo-looms-sls-nke-mu-in-focus/cNbX828R9hF?.tsrc=rss) | 2026-11-17 22:46 | 利好 | AMD NVDA QQQ SPY TSM |
+| 2 | [圣路易斯联储主席穆萨莱姆发表极端鹰派言论，称未来数月或需加息四次](2026/2026-11-17.md#news-2) | [CNBC Economy](https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html) | 2026-11-17 08:40 | 利空 | DIA QQQ SPY |
+| 3 | [华尔街恐慌指数VIX大幅飙升，期权市场显露避险情绪](2026/2026-11-17.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html) | 2026-11-17 15:28 | 利空 | DIA QQQ SPY |
+| 4 | [Salesforce大跌逾9%，新一轮裁员消息引发增长动能担忧](2026/2026-11-17.md#news-4) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-gets-hammered-traders-045611127.html?.tsrc=rss) | 2026-11-18 00:58 | 利空 | CRM INTU MSFT NOW |
+| 5 | [伊朗袭击科威特美军基地目标，中东地缘局势进一步紧张](2026/2026-11-17.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html) | 2026-11-18 00:24 | 利空 | CVX GLD SPY XOM |
 | 1 | [Dow, S&P 500, Nasdaq Futures Mixed Ahead Of Much-Anticipated Nvidia Earnings, Anthropic IPO: SLS, BABA, JPM, OMER In Focus](2026/2026-11-16.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-ahead-of-much-anticipated-nvidia-earnings-anthropic-ipo-sls-baba-jpm-omer-in-focus/cNba1SfR9gr?.tsrc=rss) | 2026-11-16 23:06 | 不确定 | JPM |
 | 2 | [Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck](2026/2026-11-16.md#news-2) | [Yahoo Finance](https://finance.yahoo.com/m/d0a3411e-5f2b-302d-801a-a42b1d7ca5ea/dow-jones-futures%3A-amd%2C.html?.tsrc=rss) | 2026-11-16 22:20 | 不确定 | AMD |
 | 3 | [S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week — NVDA, TSLA, ANT In Focus](2026/2026-11-16.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-investors-hold-back-ahead-of-nvidia-earnings-anthropic-ipo/cNbaf4PR9gk?.tsrc=rss) | 2026-11-16 19:09 | 不确定 | NVDA TSLA |

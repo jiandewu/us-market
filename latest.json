@@ -1,22 +1,22 @@
 {
- "date": "2026-11-16",
- "updated": "2026-11-17T07:51:44+00:00",
- "summary": "",
+ "date": "2026-11-17",
+ "updated": "2026-11-18T07:17:04+00:00",
+ "summary": "美股经历连续回调后，英伟达盘后公布强劲业绩及指引提振了科技股与股指期货情绪。然而，美联储官员的持续鹰派表态推动加息预期升温，叠加市场波动率显著飙升，大盘短期仍面临流动性与估值的双重压力。",
  "items": [
   {
-   "title": "Dow, S&P 500, Nasdaq Futures Mixed Ahead Of Much-Anticipated Nvidia Earnings, Anthropic IPO: SLS, BABA, JPM, OMER In Focus",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-16.html#news-1"
+   "title": "英伟达业绩超预期并上调指引，提振美股科技股盘后反弹",
+   "impact": "利好",
+   "url": "news/2026/2026-11-17.html#news-1"
   },
   {
-   "title": "Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-16.html#news-2"
+   "title": "圣路易斯联储主席穆萨莱姆发表极端鹰派言论，称未来数月或需加息四次",
+   "impact": "利空",
+   "url": "news/2026/2026-11-17.html#news-2"
   },
   {
-   "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week — NVDA, TSLA, ANT In Focus",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-16.html#news-3"
+   "title": "华尔街恐慌指数VIX大幅飙升，期权市场显露避险情绪",
+   "impact": "利空",
+   "url": "news/2026/2026-11-17.html#news-3"
   }
  ],
  "macro": [

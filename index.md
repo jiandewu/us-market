@@ -4,19 +4,19 @@
 
 ## 每日要闻
 
-2026-11-16，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-17，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [Dow, S&P 500, Nasdaq Futures Mixed Ahead Of Much-Anticipated Nvidia Earnings, Anthropic IPO: SLS, BABA, JPM, OMER In Focus](news/2026/2026-11-16.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-ahead-of-much-anticipated-nvidia-earnings-anthropic-ipo-sls-baba-jpm-omer-in-focus/cNba1SfR9gr?.tsrc=rss) | 2026-11-16 23:06 | 不确定 | JPM |
-| 2 | [Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck](news/2026/2026-11-16.md#news-2) | [Yahoo Finance](https://finance.yahoo.com/m/d0a3411e-5f2b-302d-801a-a42b1d7ca5ea/dow-jones-futures%3A-amd%2C.html?.tsrc=rss) | 2026-11-16 22:20 | 不确定 | AMD |
-| 3 | [S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week — NVDA, TSLA, ANT In Focus](news/2026/2026-11-16.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-investors-hold-back-ahead-of-nvidia-earnings-anthropic-ipo/cNbaf4PR9gk?.tsrc=rss) | 2026-11-16 19:09 | 不确定 | NVDA TSLA |
-| 4 | [Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means](news/2026/2026-11-16.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html) | 2026-11-16 19:42 | 不确定 | NOW |
-| 5 | [Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’](news/2026/2026-11-16.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html) | 2026-11-16 13:46 | 不确定 |  |
+| 1 | [英伟达业绩超预期并上调指引，提振美股科技股盘后反弹](news/2026/2026-11-17.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-lead-wall-street-rebound-after-nvidia-s-blowout-forecast-anthropic-ipo-looms-sls-nke-mu-in-focus/cNbX828R9hF?.tsrc=rss) | 2026-11-17 22:46 | 利好 | AMD NVDA QQQ SPY TSM |
+| 2 | [圣路易斯联储主席穆萨莱姆发表极端鹰派言论，称未来数月或需加息四次](news/2026/2026-11-17.md#news-2) | [CNBC Economy](https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html) | 2026-11-17 08:40 | 利空 | DIA QQQ SPY |
+| 3 | [华尔街恐慌指数VIX大幅飙升，期权市场显露避险情绪](news/2026/2026-11-17.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html) | 2026-11-17 15:28 | 利空 | DIA QQQ SPY |
+| 4 | [Salesforce大跌逾9%，新一轮裁员消息引发增长动能担忧](news/2026/2026-11-17.md#news-4) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-gets-hammered-traders-045611127.html?.tsrc=rss) | 2026-11-18 00:58 | 利空 | CRM INTU MSFT NOW |
+| 5 | [伊朗袭击科威特美军基地目标，中东地缘局势进一步紧张](news/2026/2026-11-17.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html) | 2026-11-18 00:24 | 利空 | CVX GLD SPY XOM |
 
 ## 宏观数据
 
-**AI 解读（2026-11-13）**：在2026年11月12日公布的宏观数据中，10年期美债收益率上升12个基点至5.10%，2年期美债收益率上升13个基点至4.86%，收益率走高与新闻中提到的批发通胀升至6.5%引发的加息担忧相呼应；VIX指数上涨6.92%至18.70，反映市场对高通胀和芯片巨头高管变动的焦虑情绪上升；联邦基金有效利率维持在3.88%不变。
+**AI 解读（2026-11-17）**：10月零售销售环比增长0.21%，同比增长6.82%，反映消费者支出保持温和扩张。美债市场方面，11月16日10年期与2年期国债收益率分别降至5.12%和4.83%，利差在11月17日微升至0.30个基点，而联邦基金有效利率维持在3.88%。与此同时，11月16日VIX指数跃升18.7%至22.91，表明在美联储官员释放加息信号的背景下，市场避险情绪明显升温。
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
