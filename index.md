@@ -24,10 +24,10 @@
 | 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-17 | 4.80 | 4.83 |
 | 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-17 | 5.10 | 5.12 |
 | 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-18 | 0.27 | 0.30 |
-| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-17 | 25.46 | 22.91 |
+| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-18 | 24.56 | 25.46 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-17 | 89.53 | 89.24 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-13 | 122.6503 | 122.5433 |
-| 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-11-07 | 200000 | 191000 |
+| 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-11-14 | 203000 | 202000 |
 | 30 年期房贷利率 | [MORTGAGE30US](https://fred.stlouisfed.org/series/MORTGAGE30US) | 周 | 2026-11-12 | 7.11 | 7.18 |
 | CPI | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) | 月 | 2026-10-01 | 337.476 | 336.298 |
 | 核心 CPI | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL) | 月 | 2026-10-01 | 339.900 | 338.896 |
@@ -42,6 +42,7 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-19 06:58 | WMT | Walmart Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/104169/000010416926000168/wmt-20261119.htm) | 经营业绩；财务报表和附件 |
 | 2026-11-18 16:27 | MRK | Merck & Co., Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/mrk-20261116.htm) | 董事或高管变动；财务报表和附件 |
 | 2026-11-17 19:23 | BRK-B | BERKSHIRE HATHAWAY INC | [SCHEDULE 13D/A](https://www.sec.gov/Archives/edgar/data/1067983/000119312526465884/xslSCHEDULE_13D_X02/primary_doc.xml) | 5% 以上股东（主动，修订） |
 | 2026-11-17 16:36 | CSCO | CISCO SYSTEMS, INC. | [10-Q](https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/csco-20261024.htm) | 季报 |
@@ -61,12 +62,12 @@
 | 2026-11-16 12:00 | AXP | AMERICAN EXPRESS CO | [8-K](https://www.sec.gov/Archives/edgar/data/4962/000000496226000434/axp-20261116.htm) | Reg FD 披露 |
 | 2026-11-16 10:48 | BAC | BANK OF AMERICA CORP /DE/ | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/70858/000007085826000591/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 | 2026-11-16 10:46 | BAC | BANK OF AMERICA CORP /DE/ | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/70858/000007085826000590/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
-| 2026-11-16 09:29 | BAC | BANK OF AMERICA CORP /DE/ | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/70858/000007085826000588/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 
 ## 最新内部人交易（Form 3/4/144）
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-19 10:32 | WMT | Walmart Inc. | [144](https://www.sec.gov/Archives/edgar/data/104169/000194984626000669/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-18 19:27 | UBER | Uber Technologies, Inc | [4](https://www.sec.gov/Archives/edgar/data/1543151/000211186726000015/xslF345X06/primarydocument.xml) | 内部人交易 |
 | 2026-11-18 19:27 | UBER | Uber Technologies, Inc | [4](https://www.sec.gov/Archives/edgar/data/1543151/000207176126000014/xslF345X06/primarydocument.xml) | 内部人交易 |
 | 2026-11-18 19:26 | UBER | Uber Technologies, Inc | [4](https://www.sec.gov/Archives/edgar/data/1543151/000162620126000025/xslF345X06/primarydocument.xml) | 内部人交易 |
@@ -81,4 +82,3 @@
 | 2026-11-18 16:10 | GE | GENERAL ELECTRIC CO | [4](https://www.sec.gov/Archives/edgar/data/40545/000201592926000009/xslF345X06/wk-form4_1795036254.xml) | 内部人交易 |
 | 2026-11-18 16:06 | HD | HOME DEPOT, INC. | [144](https://www.sec.gov/Archives/edgar/data/354950/000162828026074788/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-18 12:20 | KO | COCA COLA CO | [4](https://www.sec.gov/Archives/edgar/data/21344/000002134426000177/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-18 12:14 | KO | COCA COLA CO | [4](https://www.sec.gov/Archives/edgar/data/21344/000002134426000175/xslF345X06/form4.xml) | 内部人交易 |
