@@ -2,6 +2,11 @@
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
+| 1 | [美联储会议纪要显示官员预期将进一步加息 并担忧AI对通胀影响](2026/2026-11-18.md#news-1) | [CNBC Top News](https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html) | 2026-11-18 14:41 | 利空 | DIA QQQ SPY |
+| 2 | [美联储沃勒发鹰派强音：或需通过加息50基点以震慑市场](2026/2026-11-18.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html) | 2026-11-18 10:13 | 利空 | QQQ SPY |
+| 3 | [Anthropic确定以每股83美元定价IPO 创美股史上最大上市纪录](2026/2026-11-18.md#news-3) | [Yahoo Finance](https://www.cnn.com/2026/11/18/investing/anthropic-ipo-price-stock?.tsrc=rss) | 2026-11-18 20:32 | 利好 | MAGS QQQ |
+| 4 | [Palo Alto斥资45亿美元收购AI初创公司 业绩超预期股价盘后大涨7%](2026/2026-11-18.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html) | 2026-11-18 19:07 | 利好 | QQQ VGT |
+| 5 | [英伟达确认黄仁勋不会回归CEO岗位 设立国家安全委员会加强合规](2026/2026-11-18.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-rules-jensen-huang-051505790.html?.tsrc=rss) | 2026-11-19 00:15 | 不确定 | NVDA QQQ |
 | 1 | [英伟达业绩超预期并上调指引，提振美股科技股盘后反弹](2026/2026-11-17.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-lead-wall-street-rebound-after-nvidia-s-blowout-forecast-anthropic-ipo-looms-sls-nke-mu-in-focus/cNbX828R9hF?.tsrc=rss) | 2026-11-17 22:46 | 利好 | AMD NVDA QQQ SPY TSM |
 | 2 | [圣路易斯联储主席穆萨莱姆发表极端鹰派言论，称未来数月或需加息四次](2026/2026-11-17.md#news-2) | [CNBC Economy](https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html) | 2026-11-17 08:40 | 利空 | DIA QQQ SPY |
 | 3 | [华尔街恐慌指数VIX大幅飙升，期权市场显露避险情绪](2026/2026-11-17.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html) | 2026-11-17 15:28 | 利空 | DIA QQQ SPY |
