@@ -32,9 +32,9 @@
    "id": "DGS10",
    "name": "10 年期美债收益率",
    "unit": "%",
-   "date": "2026-11-17",
-   "value": 5.1,
-   "previous": 5.12
+   "date": "2026-11-18",
+   "value": 5.07,
+   "previous": 5.1
   },
   {
    "id": "DCOILWTICO",
@@ -48,9 +48,9 @@
    "id": "MORTGAGE30US",
    "name": "30 年期房贷利率",
    "unit": "%",
-   "date": "2026-11-12",
-   "value": 7.11,
-   "previous": 7.18
+   "date": "2026-11-19",
+   "value": 7.28,
+   "previous": 7.11
   }
  ]
 }
