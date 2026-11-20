@@ -4,19 +4,19 @@
 
 ## 每日要闻
 
-2026-11-18，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-19，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [美联储会议纪要显示官员预期将进一步加息 并担忧AI对通胀影响](news/2026/2026-11-18.md#news-1) | [CNBC Top News](https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html) | 2026-11-18 14:41 | 利空 | DIA QQQ SPY |
-| 2 | [美联储沃勒发鹰派强音：或需通过加息50基点以震慑市场](news/2026/2026-11-18.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html) | 2026-11-18 10:13 | 利空 | QQQ SPY |
-| 3 | [Anthropic确定以每股83美元定价IPO 创美股史上最大上市纪录](news/2026/2026-11-18.md#news-3) | [Yahoo Finance](https://www.cnn.com/2026/11/18/investing/anthropic-ipo-price-stock?.tsrc=rss) | 2026-11-18 20:32 | 利好 | MAGS QQQ |
-| 4 | [Palo Alto斥资45亿美元收购AI初创公司 业绩超预期股价盘后大涨7%](news/2026/2026-11-18.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html) | 2026-11-18 19:07 | 利好 | QQQ VGT |
-| 5 | [英伟达确认黄仁勋不会回归CEO岗位 设立国家安全委员会加强合规](news/2026/2026-11-18.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-rules-jensen-huang-051505790.html?.tsrc=rss) | 2026-11-19 00:15 | 不确定 | NVDA QQQ |
+| 1 | [美联储纪要显示官员预计仍将加息 关注 AI 对通胀影响](news/2026/2026-11-19.md#news-1) | [CNBC Markets](https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html) | 2026-11-18 14:41 | 利空 | DIA QQQ SPY |
+| 2 | [Anthropic 强势上市未能提振市场 科技股领跌美股](news/2026/2026-11-19.md#news-2) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-anthropic-trading-debut-fails-to-provide-adequate-confidence/cNbio2mR90v?.tsrc=rss) | 2026-11-19 18:01 | 利空 | AAPL META NVDA QQQ SPY |
+| 3 | [加州总检察长对英伟达展开调查 涉及涉华芯片销售问题](news/2026/2026-11-19.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html) | 2026-11-19 18:21 | 利空 | NVDA QQQ SPY |
+| 4 | [AMD 因做空机构指控涉华违规大跌 超 7%](news/2026/2026-11-19.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html) | 2026-11-19 19:08 | 利空 | AMD NVDA QQQ |
+| 5 | [Intuit 下调全年营收指引 并折价出售 Mailchimp](news/2026/2026-11-19.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html) | 2026-11-19 16:40 | 利空 | INTU QQQ |
 
 ## 宏观数据
 
-**AI 解读（2026-11-18）**：11月17日美债收益率小幅下行，10年期及2年期收益率分别降至5.10%和4.80%，10年与2年期利差收窄至0.27%；同日VIX指数跃升11.13%至25.46，显示市场恐慌情绪显著上升。美联储公布的10月会议纪要及官员讲话透露出对通胀的持续担忧，甚至提及加息可能，这与长端美债收益率的高位震荡形成呼应。
+**AI 解读（2026-11-19）**：最新公布的宏观数据显示，截至 11 月 14 日当周首次申请失业救济人数上升至 20.3 万人；30 年期房贷利率升至 7.28%；10 年期美债收益率微降至 5.07%，与 2 年期美债收益率（4.80%）的利差为 0.28%。结合美联储 10 月政策会议纪要，美联储官员预计未来可能进一步加息并对通胀表达关切，高利率与贷款成本高企持续对市场估值承压。
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
