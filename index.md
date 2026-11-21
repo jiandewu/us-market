@@ -20,10 +20,10 @@
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
-| 联邦基金有效利率 | [DFF](https://fred.stlouisfed.org/series/DFF) | 日 | 2026-11-18 | 3.88 | 3.88 |
-| 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-18 | 4.80 | 4.80 |
-| 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-18 | 5.07 | 5.10 |
-| 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-19 | 0.28 | 0.27 |
+| 联邦基金有效利率 | [DFF](https://fred.stlouisfed.org/series/DFF) | 日 | 2026-11-19 | 3.88 | 3.88 |
+| 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-19 | 4.76 | 4.80 |
+| 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-19 | 5.04 | 5.07 |
+| 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-20 | 0.29 | 0.28 |
 | VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-19 | 28.44 | 24.56 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-17 | 89.53 | 89.24 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-13 | 122.6503 | 122.5433 |
@@ -35,13 +35,18 @@
 | 失业率 | [UNRATE](https://fred.stlouisfed.org/series/UNRATE) | 月 | 2026-10-01 | 4.1 | 4.2 |
 | 非农就业人数 | [PAYEMS](https://fred.stlouisfed.org/series/PAYEMS) | 月 | 2026-10-01 | 159293 | 159128 |
 | 零售销售 | [RSAFS](https://fred.stlouisfed.org/series/RSAFS) | 月 | 2026-10-01 | 748220 | 746637 |
-| 密歇根消费者信心 | [UMCSENT](https://fred.stlouisfed.org/series/UMCSENT) | 月 | 2026-09-01 | 48.1 | 51.7 |
+| 密歇根消费者信心 | [UMCSENT](https://fred.stlouisfed.org/series/UMCSENT) | 月 | 2026-10-01 | 48.0 | 48.1 |
 | 实际 GDP | [GDPC1](https://fred.stlouisfed.org/series/GDPC1) | 季 | 2026-07-01 | 24611.077 | 24408.011 |
 
 ## 最新公告
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-20 16:45 | BAC | BANK OF AMERICA CORP /DE/ | [8-K](https://www.sec.gov/Archives/edgar/data/70858/000007085826000608/bac-20261119.htm) | 章程修订；财务报表和附件 |
+| 2026-11-20 16:30 | ORCL | ORACLE CORP | [8-K](https://www.sec.gov/Archives/edgar/data/1341439/000119312526470351/orcl-20261118.htm) | 股东投票结果 |
+| 2026-11-20 16:21 | HD | HOME DEPOT, INC. | [10-Q](https://www.sec.gov/Archives/edgar/data/354950/000162828026075287/hd-20261101.htm) | 季报 |
+| 2026-11-20 16:19 | AMD | ADVANCED MICRO DEVICES INC | [8-K](https://www.sec.gov/Archives/edgar/data/2488/000000248826000218/amd-20261118.htm) | 章程修订；财务报表和附件 |
+| 2026-11-20 16:01 | MS | MORGAN STANLEY | [8-K](https://www.sec.gov/Archives/edgar/data/895421/000089542126000358/ms-20261120.htm) | 其他事件；财务报表和附件 |
 | 2026-11-19 17:26 | INTU | INTUIT INC. | [8-K](https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/d182669d8k.htm) | 签订重大协议；其他事件；财务报表和附件 |
 | 2026-11-19 16:46 | IBM | INTERNATIONAL BUSINESS MACHINES CORP | [8-K](https://www.sec.gov/Archives/edgar/data/51143/000110465926130189/tm2630132d1_8k.htm) | 财务报表和附件 |
 | 2026-11-19 16:46 | INTU | INTUIT INC. | [8-K](https://www.sec.gov/Archives/edgar/data/896878/000089687826000047/intu-20261119.htm) | 其他事件 |
@@ -57,28 +62,23 @@
 | 2026-11-17 08:00 | JPM | JPMORGAN CHASE & CO | [8-K](https://www.sec.gov/Archives/edgar/data/19617/000001961726000407/jpm-20261117.htm) | 董事或高管变动 |
 | 2026-11-17 06:18 | HD | HOME DEPOT, INC. | [8-K](https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/hd-20261117.htm) | 经营业绩；财务报表和附件 |
 | 2026-11-17 06:08 | HD | HOME DEPOT, INC. | [8-K](https://www.sec.gov/Archives/edgar/data/354950/000035495026000182/hd-20261113.htm) | 董事或高管变动；Reg FD 披露；财务报表和附件 |
-| 2026-11-16 21:30 | UBER | Uber Technologies, Inc | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000562/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
-| 2026-11-16 20:57 | BRK-B | BERKSHIRE HATHAWAY INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1067983/000119312526464219/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
-| 2026-11-16 20:57 | BRK-B | BERKSHIRE HATHAWAY INC | [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1067983/000119312526464218/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动） |
-| 2026-11-16 20:52 | BRK-B | BERKSHIRE HATHAWAY INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1067983/000119312526464214/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
-| 2026-11-16 20:50 | BRK-B | BERKSHIRE HATHAWAY INC | [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1067983/000119312526464211/xslSCHEDULE_13G_X02/primary_doc.xml) | 5% 以上股东（被动，修订） |
 
 ## 最新内部人交易（Form 3/4/144）
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
-| 2026-11-20 06:06 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [4](https://www.sec.gov/Archives/edgar/data/1046179/000211403226000002/xslF345X06/wk-form4_1795172790.xml) | 内部人交易 |
-| 2026-11-19 19:43 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017904/xslF345X06/ownership.xml) | 内部人交易 |
-| 2026-11-19 19:41 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017902/xslF345X06/ownership.xml) | 内部人交易 |
-| 2026-11-19 19:39 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326017900/xslF345X06/ownership.xml) | 内部人交易 |
-| 2026-11-19 18:30 | AAPL | Apple Inc. | [4](https://www.sec.gov/Archives/edgar/data/320193/000114036126044952/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-19 18:15 | BRK-B | BERKSHIRE HATHAWAY INC | [4](https://www.sec.gov/Archives/edgar/data/1067983/000119312526468887/xslF345X06/ownership.xml) | 内部人交易 |
-| 2026-11-19 16:45 | NVDA | NVIDIA CORP | [144](https://www.sec.gov/Archives/edgar/data/1045810/000192109426001223/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-19 16:22 | QCOM | QUALCOMM INC/DE | [4](https://www.sec.gov/Archives/edgar/data/804328/000080432826000133/xslF345X06/edgardoc.xml) | 内部人交易 |
-| 2026-11-19 16:17 | CSCO | CISCO SYSTEMS, INC. | [144](https://www.sec.gov/Archives/edgar/data/858877/000195004726011347/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-19 16:16 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726011344/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-19 16:11 | NOW | ServiceNow, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1373715/000166742226000044/xslF345X06/wk-form4_1795122670.xml) | 内部人交易 |
-| 2026-11-19 16:11 | NOW | ServiceNow, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1373715/000146539126000038/xslF345X06/wk-form4_1795122662.xml) | 内部人交易 |
-| 2026-11-19 16:11 | NOW | ServiceNow, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1373715/000133494426000042/xslF345X06/wk-form4_1795122675.xml) | 内部人交易 |
-| 2026-11-19 16:10 | NOW | ServiceNow, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1373715/000211192926000022/xslF345X06/wk-form4_1795122651.xml) | 内部人交易 |
-| 2026-11-19 16:10 | NOW | ServiceNow, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1373715/000164960926000043/xslF345X06/wk-form4_1795122657.xml) | 内部人交易 |
+| 2026-11-20 17:45 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726011415/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-20 17:45 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726011414/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-20 17:27 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726011412/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-20 17:26 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726011411/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-20 17:25 | HD | HOME DEPOT, INC. | [4](https://www.sec.gov/Archives/edgar/data/354950/000035495026000188/xslF345X06/wk-form4_1795213546.xml) | 内部人交易 |
+| 2026-11-20 17:25 | HD | HOME DEPOT, INC. | [4](https://www.sec.gov/Archives/edgar/data/354950/000035495026000187/xslF345X06/wk-form4_1795213499.xml) | 内部人交易 |
+| 2026-11-20 16:57 | ORCL | ORACLE CORP | [4](https://www.sec.gov/Archives/edgar/data/1341439/000134143926000127/xslF345X06/form4.xml) | 内部人交易 |
+| 2026-11-20 16:48 | CSCO | CISCO SYSTEMS, INC. | [4](https://www.sec.gov/Archives/edgar/data/858877/000085887726000203/xslF345X06/wk-form4_1795211313.xml) | 内部人交易 |
+| 2026-11-20 16:47 | CSCO | CISCO SYSTEMS, INC. | [4](https://www.sec.gov/Archives/edgar/data/858877/000085887726000201/xslF345X06/wk-form4_1795211259.xml) | 内部人交易 |
+| 2026-11-20 16:47 | CSCO | CISCO SYSTEMS, INC. | [4](https://www.sec.gov/Archives/edgar/data/858877/000085887726000200/xslF345X06/wk-form4_1795211244.xml) | 内部人交易 |
+| 2026-11-20 16:21 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726011389/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-20 16:16 | AMZN | AMAZON COM INC | [4](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000056/xslF345X06/wk-form4_1795209411.xml) | 内部人交易 |
+| 2026-11-20 16:09 | MS | MORGAN STANLEY | [4](https://www.sec.gov/Archives/edgar/data/895421/000162828026075270/xslF345X06/wk-form4_1795208940.xml) | 内部人交易 |
+| 2026-11-20 14:35 | BAC | BANK OF AMERICA CORP /DE/ | [4](https://www.sec.gov/Archives/edgar/data/70858/000007085826000604/xslF345X06/primary_doc.xml) | 内部人交易 |
+| 2026-11-20 14:31 | BAC | BANK OF AMERICA CORP /DE/ | [4](https://www.sec.gov/Archives/edgar/data/70858/000007085826000603/xslF345X06/primary_doc.xml) | 内部人交易 |
