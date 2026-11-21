@@ -2,6 +2,11 @@
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
+| 1 | [美股三大股指全面重挫：标普与道指跌入回调区间 纳指创2020年来最差单周表现](2026/2026-11-20.md#news-1) | [MarketWatch](https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories) | 2026-11-20 17:46 | 利空 | DIA IVV QQQ SPY VOO |
+| 2 | [芯片板块遭遇2.3万亿美元市值蒸发 创25年来最惨单周表现](2026/2026-11-20.md#news-2) | [MarketWatch](https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories) | 2026-11-20 17:44 | 利空 | AMD AVGO MU NVDA QCOM TSM VGT |
+| 3 | [英伟达单周重挫14% 创2008年金融危机以来最长周连跌](2026/2026-11-20.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html) | 2026-11-20 17:59 | 利空 | AAPL GOOGL MSFT NVDA |
+| 4 | [台积电与三星暂停向中国大陆客户供应先进制程芯片](2026/2026-11-20.md#news-4) | [Yahoo Finance](https://finance.yahoo.com/technology/articles/taiwan-semiconductor-manufacturing-nyse-tsm-042528694.html?.tsrc=rss) | 2026-11-20 23:25 | 利空 | AMD NVDA TSM |
+| 5 | [Intuit因下调营收预期大跌13% 市场担忧AI软件商业化阻力](2026/2026-11-20.md#news-5) | [Yahoo Finance](https://www.tikr.com/blog/intuit-sinks-13-on-revenue-guidance-cut-as-ceo-calls-ai-tools-new-front-doors-for-discovery?ref=yahoofinance&tlnk=yf-261120-h3hx3gvv&.tsrc=rss) | 2026-11-20 16:45 | 利空 | CRM INTU MSFT NOW |
 | 1 | [美联储纪要显示官员预计仍将加息 关注 AI 对通胀影响](2026/2026-11-19.md#news-1) | [CNBC Markets](https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html) | 2026-11-18 14:41 | 利空 | DIA QQQ SPY |
 | 2 | [Anthropic 强势上市未能提振市场 科技股领跌美股](2026/2026-11-19.md#news-2) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-anthropic-trading-debut-fails-to-provide-adequate-confidence/cNbio2mR90v?.tsrc=rss) | 2026-11-19 18:01 | 利空 | AAPL META NVDA QQQ SPY |
 | 3 | [加州总检察长对英伟达展开调查 涉及涉华芯片销售问题](2026/2026-11-19.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html) | 2026-11-19 18:21 | 利空 | NVDA QQQ SPY |
