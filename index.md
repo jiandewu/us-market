@@ -4,15 +4,15 @@
 
 ## 每日要闻
 
-2026-11-20，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-21，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [美股三大股指全面重挫：标普与道指跌入回调区间 纳指创2020年来最差单周表现](news/2026/2026-11-20.md#news-1) | [MarketWatch](https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories) | 2026-11-20 17:46 | 利空 | DIA IVV QQQ SPY VOO |
-| 2 | [芯片板块遭遇2.3万亿美元市值蒸发 创25年来最惨单周表现](news/2026/2026-11-20.md#news-2) | [MarketWatch](https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories) | 2026-11-20 17:44 | 利空 | AMD AVGO MU NVDA QCOM TSM VGT |
-| 3 | [英伟达单周重挫14% 创2008年金融危机以来最长周连跌](news/2026/2026-11-20.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html) | 2026-11-20 17:59 | 利空 | AAPL GOOGL MSFT NVDA |
-| 4 | [台积电与三星暂停向中国大陆客户供应先进制程芯片](news/2026/2026-11-20.md#news-4) | [Yahoo Finance](https://finance.yahoo.com/technology/articles/taiwan-semiconductor-manufacturing-nyse-tsm-042528694.html?.tsrc=rss) | 2026-11-20 23:25 | 利空 | AMD NVDA TSM |
-| 5 | [Intuit因下调营收预期大跌13% 市场担忧AI软件商业化阻力](news/2026/2026-11-20.md#news-5) | [Yahoo Finance](https://www.tikr.com/blog/intuit-sinks-13-on-revenue-guidance-cut-as-ceo-calls-ai-tools-new-front-doors-for-discovery?ref=yahoofinance&tlnk=yf-261120-h3hx3gvv&.tsrc=rss) | 2026-11-20 16:45 | 利空 | CRM INTU MSFT NOW |
+| 1 | [英伟达从高点暴跌48% 估值跌至15倍市盈率创十年新低](news/2026/2026-11-21.md#news-1) | [Yahoo Finance](https://247wallst.com/investing/2026/11/21/nvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom/?.tsrc=rss) | 2026-11-21 19:47 | 利空 | AVGO MSFT NVDA |
+| 2 | [科技股重挫拖累大盘 纳斯达克100指数距离熊市仅一步之遥](news/2026/2026-11-21.md#news-2) | [Yahoo Finance](https://247wallst.com/investing/2026/11/21/the-nasdaq-100-is-now-just-49-points-from-a-bear-market/?.tsrc=rss) | 2026-11-21 12:42 | 利空 | QQQ SPY |
+| 3 | [标普500指数全面跌破华尔街所有2026年底目标价](news/2026/2026-11-21.md#news-3) | [Yahoo Finance](https://247wallst.com/investing/2026/11/21/the-sp-500-is-now-below-every-wall-street-year-end-target-for-2026/?.tsrc=rss) | 2026-11-21 15:42 | 利空 | IVV SPY VOO |
+| 4 | [美联储官员警告或加大加息力度 加速市场激辩12月政策路线](news/2026/2026-11-21.md#news-4) | [Yahoo Finance](https://247wallst.com/investing/2026/11/21/feds-lisa-cook-warns-of-larger-rate-hikes-ahead/?.tsrc=rss) | 2026-11-21 11:03 | 利空 | QQQ SPY |
+| 5 | [高盛联合阿波罗安排440亿美元GPU融资方案 刷新行业纪录](news/2026/2026-11-21.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-backs-record-061306562.html?.tsrc=rss) | 2026-11-22 01:13 | 利好 | GS NVDA |
 
 ## 宏观数据
 
