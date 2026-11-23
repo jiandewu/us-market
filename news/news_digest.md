@@ -2,6 +2,11 @@
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
+| 1 | [美股期指大反弹：英伟达期货飙升近6%，纳指与标普期指反弹2%](2026/2026-11-22.md#news-1) | [Yahoo Finance](https://beincrypto.com/nvidia-futures-rip-as-markets-rebound/?.tsrc=rss) | 2026-11-23 01:00 | 利好 | NVDA QQQ SPY |
+| 2 | [美国对Megaspeed和Alice Huang展开调查，英伟达芯片审查案迎新进展](2026/2026-11-22.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html) | 2026-11-23 00:08 | 利空 | AMD NVDA QQQ |
+| 3 | [木头姐称若SpaceX收购特斯拉股东将获溢价，汇丰预估溢价率超30%](2026/2026-11-22.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/cathie-wood-tsla-holders-premium-if-spacex-buys-tesla-hsbc/cNbYtWbR9Si?.tsrc=rss) | 2026-11-23 02:14 | 不确定 | TSLA |
+| 4 | [高盛联合阿波罗完成针对SpaceX的440亿美元GPU融资安排](2026/2026-11-22.md#news-4) | [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-backs-record-061306562.html?.tsrc=rss) | 2026-11-22 01:13 | 利好 | GS NVDA |
+| 5 | [做空机构指称AMD存在中国相关合规风险，股价此前曾受英伟达事件驱动上涨](2026/2026-11-22.md#news-5) | [Yahoo Finance](https://www.barchart.com/story/news/8957111/amd-gained-from-nvidias-china-scandal-now-a-short-seller-says-amd-has-a-china-problem-too?.tsrc=rss) | 2026-11-22 14:01 | 利空 | AMD NVDA |
 | 1 | [英伟达从高点暴跌48% 估值跌至15倍市盈率创十年新低](2026/2026-11-21.md#news-1) | [Yahoo Finance](https://247wallst.com/investing/2026/11/21/nvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom/?.tsrc=rss) | 2026-11-21 19:47 | 利空 | AVGO MSFT NVDA |
 | 2 | [科技股重挫拖累大盘 纳斯达克100指数距离熊市仅一步之遥](2026/2026-11-21.md#news-2) | [Yahoo Finance](https://247wallst.com/investing/2026/11/21/the-nasdaq-100-is-now-just-49-points-from-a-bear-market/?.tsrc=rss) | 2026-11-21 12:42 | 利空 | QQQ SPY |
 | 3 | [标普500指数全面跌破华尔街所有2026年底目标价](2026/2026-11-21.md#news-3) | [Yahoo Finance](https://247wallst.com/investing/2026/11/21/the-sp-500-is-now-below-every-wall-street-year-end-target-for-2026/?.tsrc=rss) | 2026-11-21 15:42 | 利空 | IVV SPY VOO |
