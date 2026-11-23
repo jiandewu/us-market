@@ -24,7 +24,7 @@
 | 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-19 | 4.76 | 4.80 |
 | 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-19 | 5.04 | 5.07 |
 | 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-20 | 0.29 | 0.28 |
-| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-19 | 28.44 | 24.56 |
+| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-20 | 35.89 | 28.44 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-17 | 89.53 | 89.24 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-13 | 122.6503 | 122.5433 |
 | 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-11-14 | 203000 | 202000 |
@@ -42,6 +42,7 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-23 08:57 | NVDA | NVIDIA CORP | [8-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm) | 董事或高管变动；财务报表和附件 |
 | 2026-11-20 16:45 | BAC | BANK OF AMERICA CORP /DE/ | [8-K](https://www.sec.gov/Archives/edgar/data/70858/000007085826000608/bac-20261119.htm) | 章程修订；财务报表和附件 |
 | 2026-11-20 16:30 | ORCL | ORACLE CORP | [8-K](https://www.sec.gov/Archives/edgar/data/1341439/000119312526470351/orcl-20261118.htm) | 股东投票结果 |
 | 2026-11-20 16:21 | HD | HOME DEPOT, INC. | [10-Q](https://www.sec.gov/Archives/edgar/data/354950/000162828026075287/hd-20261101.htm) | 季报 |
@@ -61,12 +62,14 @@
 | 2026-11-17 16:05 | MCD | MCDONALDS CORP | [8-K](https://www.sec.gov/Archives/edgar/data/63908/000110465926129050/tm2630018d1_8k.htm) | 其他事件；财务报表和附件 |
 | 2026-11-17 08:00 | JPM | JPMORGAN CHASE & CO | [8-K](https://www.sec.gov/Archives/edgar/data/19617/000001961726000407/jpm-20261117.htm) | 董事或高管变动 |
 | 2026-11-17 06:18 | HD | HOME DEPOT, INC. | [8-K](https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/hd-20261117.htm) | 经营业绩；财务报表和附件 |
-| 2026-11-17 06:08 | HD | HOME DEPOT, INC. | [8-K](https://www.sec.gov/Archives/edgar/data/354950/000035495026000182/hd-20261113.htm) | 董事或高管变动；Reg FD 披露；财务报表和附件 |
 
 ## 最新内部人交易（Form 3/4/144）
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-23 13:36 | AMZN | AMAZON COM INC | [144](https://www.sec.gov/Archives/edgar/data/1018724/000195917326008213/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-23 13:15 | AMZN | AMAZON COM INC | [144](https://www.sec.gov/Archives/edgar/data/1018724/000195917326008211/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-23 12:44 | AMZN | AMAZON COM INC | [144](https://www.sec.gov/Archives/edgar/data/1018724/000195917326008210/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-20 17:45 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726011415/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-20 17:45 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726011414/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-20 17:27 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726011412/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
@@ -79,6 +82,3 @@
 | 2026-11-20 16:47 | CSCO | CISCO SYSTEMS, INC. | [4](https://www.sec.gov/Archives/edgar/data/858877/000085887726000200/xslF345X06/wk-form4_1795211244.xml) | 内部人交易 |
 | 2026-11-20 16:21 | PLTR | Palantir Technologies Inc. | [144](https://www.sec.gov/Archives/edgar/data/1321655/000195004726011389/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-20 16:16 | AMZN | AMAZON COM INC | [4](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000056/xslF345X06/wk-form4_1795209411.xml) | 内部人交易 |
-| 2026-11-20 16:09 | MS | MORGAN STANLEY | [4](https://www.sec.gov/Archives/edgar/data/895421/000162828026075270/xslF345X06/wk-form4_1795208940.xml) | 内部人交易 |
-| 2026-11-20 14:35 | BAC | BANK OF AMERICA CORP /DE/ | [4](https://www.sec.gov/Archives/edgar/data/70858/000007085826000604/xslF345X06/primary_doc.xml) | 内部人交易 |
-| 2026-11-20 14:31 | BAC | BANK OF AMERICA CORP /DE/ | [4](https://www.sec.gov/Archives/edgar/data/70858/000007085826000603/xslF345X06/primary_doc.xml) | 内部人交易 |
