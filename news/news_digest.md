@@ -2,6 +2,11 @@
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
+| 1 | [美联储威廉姆斯表示随着时间推移可能需要更高利率以遏制通胀](2026/2026-11-23.md#news-1) | [CNBC Top News](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) | 2026-11-23 16:02 | 利空 | DIA IVV QQQ SPY VOO |
+| 2 | [黄仁勋重返英伟达CEO岗位 股价开创性暴涨31%](2026/2026-11-23.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) | 2026-11-23 16:08 | 利好 | AMD AVGO MAGS NVDA QQQ TSM VGT |
+| 3 | [伊朗称三艘油轮在霍尔木兹海峡触雷 美国扩大对伊制裁](2026/2026-11-23.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html) | 2026-11-24 00:05 | 利空 | CVX SPY XOM |
+| 4 | [亚马逊以75亿美元交易加码AI芯片速度与效率](2026/2026-11-23.md#news-4) | [MarketWatch](https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories) | 2026-11-23 16:33 | 利好 | AMZN NVDA QQQ |
+| 5 | [赛诺菲斥资410亿美元收购Insmed 创近三年最大生物医药并购](2026/2026-11-23.md#news-5) | [MarketWatch](https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories) | 2026-11-24 04:14 | 利好 | ABBV JNJ LLY MRK SPY |
 | 1 | [美股期指大反弹：英伟达期货飙升近6%，纳指与标普期指反弹2%](2026/2026-11-22.md#news-1) | [Yahoo Finance](https://beincrypto.com/nvidia-futures-rip-as-markets-rebound/?.tsrc=rss) | 2026-11-23 01:00 | 利好 | NVDA QQQ SPY |
 | 2 | [美国对Megaspeed和Alice Huang展开调查，英伟达芯片审查案迎新进展](2026/2026-11-22.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html) | 2026-11-23 00:08 | 利空 | AMD NVDA QQQ |
 | 3 | [木头姐称若SpaceX收购特斯拉股东将获溢价，汇丰预估溢价率超30%](2026/2026-11-22.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/cathie-wood-tsla-holders-premium-if-spacex-buys-tesla-hsbc/cNbYtWbR9Si?.tsrc=rss) | 2026-11-23 02:14 | 不确定 | TSLA |
