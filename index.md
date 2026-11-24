@@ -24,7 +24,7 @@
 | 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-20 | 4.63 | 4.76 |
 | 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-20 | 4.92 | 5.04 |
 | 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-23 | 0.29 | 0.29 |
-| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-20 | 35.89 | 28.44 |
+| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-23 | 26.62 | 35.89 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-17 | 89.53 | 89.24 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-20 | 123.5978 | 123.5253 |
 | 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-11-14 | 203000 | 202000 |
@@ -67,6 +67,7 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-24 10:14 | AMZN | AMAZON COM INC | [144](https://www.sec.gov/Archives/edgar/data/1018724/000195917326008243/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-23 21:07 | GOOGL | Alphabet Inc. | [4](https://www.sec.gov/Archives/edgar/data/1652044/000119312526472910/xslF345X06/ownership.xml) | 内部人交易 |
 | 2026-11-23 20:02 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000182415926000019/xslF345X06/wk-form4_1795482132.xml) | 内部人交易 |
 | 2026-11-23 19:40 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000255/xslF345X06/form4.xml) | 内部人交易 |
@@ -81,4 +82,3 @@
 | 2026-11-23 19:23 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000237/xslF345X06/form4.xml) | 内部人交易 |
 | 2026-11-23 19:20 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000235/xslF345X06/form4.xml) | 内部人交易 |
 | 2026-11-23 17:52 | V | VISA INC. | [4](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000158/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 17:51 | V | VISA INC. | [4](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000157/xslF345X06/form4.xml) | 内部人交易 |
