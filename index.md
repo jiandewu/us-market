@@ -4,19 +4,19 @@
 
 ## 每日要闻
 
-2026-11-23，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-24，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [美联储威廉姆斯表示随着时间推移可能需要更高利率以遏制通胀](news/2026/2026-11-23.md#news-1) | [CNBC Top News](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) | 2026-11-23 16:02 | 利空 | DIA IVV QQQ SPY VOO |
-| 2 | [黄仁勋重返英伟达CEO岗位 股价开创性暴涨31%](news/2026/2026-11-23.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) | 2026-11-23 16:08 | 利好 | AMD AVGO MAGS NVDA QQQ TSM VGT |
-| 3 | [伊朗称三艘油轮在霍尔木兹海峡触雷 美国扩大对伊制裁](news/2026/2026-11-23.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html) | 2026-11-24 00:05 | 利空 | CVX SPY XOM |
-| 4 | [亚马逊以75亿美元交易加码AI芯片速度与效率](news/2026/2026-11-23.md#news-4) | [MarketWatch](https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories) | 2026-11-23 16:33 | 利好 | AMZN NVDA QQQ |
-| 5 | [赛诺菲斥资410亿美元收购Insmed 创近三年最大生物医药并购](news/2026/2026-11-23.md#news-5) | [MarketWatch](https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories) | 2026-11-24 04:14 | 利好 | ABBV JNJ LLY MRK SPY |
+| 1 | [特朗普政府拟加征新关税且AI恐慌重现，标普与纳指收跌](news/2026/2026-11-24.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-as-ai-jitters-resurface-with-nvidia-s-governance-issues-and-talks-of-fresh-import-tariffs-nvda-dell-tsla-tgtx-in-focus/cNbuDhyR9lT?.tsrc=rss) | 2026-11-24 19:12 | 利空 | NVDA QQQ SPY TSLA |
+| 2 | [美联储威廉姆斯表示可能需要维持高利率以应对通胀](news/2026/2026-11-24.md#news-2) | [CNBC Markets](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) | 2026-11-24 08:33 | 利空 | DIA QQQ SPY |
+| 3 | [AMD大跌9%：3.37亿股转售申请叠加AI板块卖压](news/2026/2026-11-24.md#news-3) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/?.tsrc=rss) | 2026-11-24 17:39 | 利空 | AMD NVDA QQQ VGT |
+| 4 | [英伟达尽显剧烈波动，回吐2400亿美元市值](news/2026/2026-11-24.md#news-4) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-nvidia-gives-back-usd240-billion-in-market-value-despite-wall-street-upgrade-signaling-29-upside/?.tsrc=rss) | 2026-11-24 16:49 | 利空 | MAGS NVDA QQQ |
+| 5 | [美国消费者信心指数升至103.3，但通胀担忧依然存在](news/2026/2026-11-24.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html) | 2026-11-24 13:34 | 利好 | COST HD SPY WMT |
 
 ## 宏观数据
 
-**AI 解读（2026-11-23）**：最新公布的VIX波动率指数在11月20日大幅攀升7.45点至35.89，相对前值大涨26.2%，显示出市场短期内的恐慌情绪与避险需求明显上升。结合美联储官员约翰·威廉姆斯对可能需要继续加息以应对通胀的最新表态，显示出货币政策不确定性与市场波动率高企交织的宏观背景。
+**AI 解读（2026-11-24）**：最新公布的宏观数据显示，10年期美债收益率与2年期美债收益率分别降至4.92%和4.63%，利差维持在0.29。与此同时，VIX波动率指数大跌25.83%至26.62，显示市场短期恐慌情绪有所缓解。市场目前密切关注美联储官员关于通胀路径的表态及即将公布的PCE数据，以寻求利率走向信号。
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|

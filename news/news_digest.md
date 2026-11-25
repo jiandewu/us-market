@@ -2,6 +2,11 @@
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
+| 1 | [特朗普政府拟加征新关税且AI恐慌重现，标普与纳指收跌](2026/2026-11-24.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-as-ai-jitters-resurface-with-nvidia-s-governance-issues-and-talks-of-fresh-import-tariffs-nvda-dell-tsla-tgtx-in-focus/cNbuDhyR9lT?.tsrc=rss) | 2026-11-24 19:12 | 利空 | NVDA QQQ SPY TSLA |
+| 2 | [美联储威廉姆斯表示可能需要维持高利率以应对通胀](2026/2026-11-24.md#news-2) | [CNBC Markets](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) | 2026-11-24 08:33 | 利空 | DIA QQQ SPY |
+| 3 | [AMD大跌9%：3.37亿股转售申请叠加AI板块卖压](2026/2026-11-24.md#news-3) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/?.tsrc=rss) | 2026-11-24 17:39 | 利空 | AMD NVDA QQQ VGT |
+| 4 | [英伟达尽显剧烈波动，回吐2400亿美元市值](2026/2026-11-24.md#news-4) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-nvidia-gives-back-usd240-billion-in-market-value-despite-wall-street-upgrade-signaling-29-upside/?.tsrc=rss) | 2026-11-24 16:49 | 利空 | MAGS NVDA QQQ |
+| 5 | [美国消费者信心指数升至103.3，但通胀担忧依然存在](2026/2026-11-24.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html) | 2026-11-24 13:34 | 利好 | COST HD SPY WMT |
 | 1 | [美联储威廉姆斯表示随着时间推移可能需要更高利率以遏制通胀](2026/2026-11-23.md#news-1) | [CNBC Top News](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) | 2026-11-23 16:02 | 利空 | DIA IVV QQQ SPY VOO |
 | 2 | [黄仁勋重返英伟达CEO岗位 股价开创性暴涨31%](2026/2026-11-23.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) | 2026-11-23 16:08 | 利好 | AMD AVGO MAGS NVDA QQQ TSM VGT |
 | 3 | [伊朗称三艘油轮在霍尔木兹海峡触雷 美国扩大对伊制裁](2026/2026-11-23.md#news-3) | [CNBC Top News](https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html) | 2026-11-24 00:05 | 利空 | CVX SPY XOM |
