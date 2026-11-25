@@ -20,10 +20,10 @@
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
-| 联邦基金有效利率 | [DFF](https://fred.stlouisfed.org/series/DFF) | 日 | 2026-11-20 | 3.88 | 3.88 |
-| 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-20 | 4.63 | 4.76 |
-| 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-20 | 4.92 | 5.04 |
-| 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-23 | 0.29 | 0.29 |
+| 联邦基金有效利率 | [DFF](https://fred.stlouisfed.org/series/DFF) | 日 | 2026-11-23 | 3.88 | 3.88 |
+| 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-23 | 4.63 | 4.63 |
+| 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-23 | 4.92 | 4.92 |
+| 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-24 | 0.28 | 0.29 |
 | VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-23 | 26.62 | 35.89 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-17 | 89.53 | 89.24 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-20 | 123.5978 | 123.5253 |
@@ -42,6 +42,11 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-24 16:49 | GOOGL | Alphabet Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/d91615d8k.htm) | 其他事件；财务报表和附件 |
+| 2026-11-24 16:32 | QCOM | QUALCOMM INC/DE | [8-K](https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/qcom-20261120.htm) | 董事或高管变动；财务报表和附件 |
+| 2026-11-24 16:23 | GLDM | World Gold Trust | [10-K](https://www.sec.gov/Archives/edgar/data/1618181/000143774926038191/gldm20260930_10k.htm) | 年报 |
+| 2026-11-24 16:23 | GLD | SPDR GOLD TRUST | [10-K](https://www.sec.gov/Archives/edgar/data/1222333/000143774926038190/gld20260930_10k.htm) | 年报 |
+| 2026-11-24 16:22 | MU | MICRON TECHNOLOGY INC | [DEF 14A](https://www.sec.gov/Archives/edgar/data/723125/000072312526000034/mu-20261124.htm) | 股东大会委托书 |
 | 2026-11-23 16:54 | META | Meta Platforms, Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/meta-20261118.htm) | 其他事件 |
 | 2026-11-23 16:35 | KO | COCA COLA CO | [8-K](https://www.sec.gov/Archives/edgar/data/21344/000155278126000567/e26458_ko-8k.htm) | 董事或高管变动；财务报表和附件 |
 | 2026-11-23 16:13 | V | VISA INC. | [8-K](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/v-20261118.htm) | 董事或高管变动 |
@@ -57,28 +62,23 @@
 | 2026-11-19 16:41 | INTU | INTUIT INC. | [10-Q](https://www.sec.gov/Archives/edgar/data/896878/000089687826000045/intu-20261031.htm) | 季报 |
 | 2026-11-19 16:08 | INTU | INTUIT INC. | [8-K](https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/intu-20261119.htm) | 经营业绩；其他事件；财务报表和附件 |
 | 2026-11-19 16:05 | BRK-B | BERKSHIRE HATHAWAY INC | [8-K](https://www.sec.gov/Archives/edgar/data/1067983/000119312526468549/d197844d8k.htm) | 其他事件；财务报表和附件 |
-| 2026-11-19 06:58 | WMT | Walmart Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/104169/000010416926000168/wmt-20261119.htm) | 经营业绩；财务报表和附件 |
-| 2026-11-18 16:27 | MRK | Merck & Co., Inc. | [8-K](https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/mrk-20261116.htm) | 董事或高管变动；财务报表和附件 |
-| 2026-11-17 19:23 | BRK-B | BERKSHIRE HATHAWAY INC | [SCHEDULE 13D/A](https://www.sec.gov/Archives/edgar/data/1067983/000119312526465884/xslSCHEDULE_13D_X02/primary_doc.xml) | 5% 以上股东（主动，修订） |
-| 2026-11-17 16:36 | CSCO | CISCO SYSTEMS, INC. | [10-Q](https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/csco-20261024.htm) | 季报 |
-| 2026-11-17 16:20 | NVDA | NVIDIA CORP | [8-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/nvda-20261117.htm) | 经营业绩；财务报表和附件 |
 
 ## 最新内部人交易（Form 3/4/144）
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
-| 2026-11-24 10:14 | AMZN | AMAZON COM INC | [144](https://www.sec.gov/Archives/edgar/data/1018724/000195917326008243/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-23 21:07 | GOOGL | Alphabet Inc. | [4](https://www.sec.gov/Archives/edgar/data/1652044/000119312526472910/xslF345X06/ownership.xml) | 内部人交易 |
-| 2026-11-23 20:02 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000182415926000019/xslF345X06/wk-form4_1795482132.xml) | 内部人交易 |
-| 2026-11-23 19:40 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000255/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 19:38 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000253/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 19:37 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000251/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 19:35 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000249/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 19:33 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000247/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 19:32 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000245/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 19:29 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000243/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 19:28 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000241/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 19:26 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000239/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 19:23 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000237/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 19:20 | CRM | Salesforce, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000235/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-23 17:52 | V | VISA INC. | [4](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000158/xslF345X06/form4.xml) | 内部人交易 |
+| 2026-11-24 20:43 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000121106026000012/xslF345X06/form4-11252026_011156.xml) | 内部人交易 |
+| 2026-11-24 20:06 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000182415926000021/xslF345X06/wk-form4_1795568778.xml) | 内部人交易 |
+| 2026-11-24 20:06 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000182392326000017/xslF345X06/wk-form4_1795568813.xml) | 内部人交易 |
+| 2026-11-24 20:05 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000182395126000013/xslF345X06/wk-form4_1795568742.xml) | 内部人交易 |
+| 2026-11-24 20:04 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/xslF345X06/wk-form4_1795568677.xml) | 内部人交易 |
+| 2026-11-24 20:03 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000182394026000014/xslF345X06/wk-form4_1795568616.xml) | 内部人交易 |
+| 2026-11-24 20:02 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000170518926000019/xslF345X06/wk-form4_1795568535.xml) | 内部人交易 |
+| 2026-11-24 19:35 | INTU | INTUIT INC. | [4](https://www.sec.gov/Archives/edgar/data/896878/000162828026075841/xslF345X06/wk-form4_1795566954.xml) | 内部人交易 |
+| 2026-11-24 18:46 | AMZN | AMAZON COM INC | [4](https://www.sec.gov/Archives/edgar/data/1018724/000137454526000012/xslF345X06/wk-form4_1795563957.xml) | 内部人交易 |
+| 2026-11-24 18:40 | AMZN | AMAZON COM INC | [4](https://www.sec.gov/Archives/edgar/data/1018724/000202481326000012/xslF345X06/wk-form4_1795563607.xml) | 内部人交易 |
+| 2026-11-24 18:34 | AMZN | AMAZON COM INC | [4](https://www.sec.gov/Archives/edgar/data/1018724/000193600626000032/xslF345X06/wk-form4_1795563271.xml) | 内部人交易 |
+| 2026-11-24 18:28 | AMZN | AMAZON COM INC | [4](https://www.sec.gov/Archives/edgar/data/1018724/000155797926000010/xslF345X06/wk-form4_1795562881.xml) | 内部人交易 |
+| 2026-11-24 18:20 | AMZN | AMAZON COM INC | [4](https://www.sec.gov/Archives/edgar/data/1018724/000163990226000010/xslF345X06/wk-form4_1795562447.xml) | 内部人交易 |
+| 2026-11-24 18:13 | AMZN | AMAZON COM INC | [4](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000058/xslF345X06/wk-form4_1795562035.xml) | 内部人交易 |
+| 2026-11-24 16:41 | QCOM | QUALCOMM INC/DE | [4](https://www.sec.gov/Archives/edgar/data/804328/000080432826000140/xslF345X06/edgardoc.xml) | 内部人交易 |
