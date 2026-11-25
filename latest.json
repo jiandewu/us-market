@@ -24,9 +24,9 @@
    "id": "VIXCLS",
    "name": "VIX 波动率指数",
    "unit": "",
-   "date": "2026-11-23",
-   "value": 26.62,
-   "previous": 35.89
+   "date": "2026-11-24",
+   "value": 26.36,
+   "previous": 26.62
   },
   {
    "id": "DGS10",
@@ -48,9 +48,9 @@
    "id": "MORTGAGE30US",
    "name": "30 年期房贷利率",
    "unit": "%",
-   "date": "2026-11-19",
-   "value": 7.28,
-   "previous": 7.11
+   "date": "2026-11-25",
+   "value": 7.21,
+   "previous": 7.28
   }
  ]
 }
