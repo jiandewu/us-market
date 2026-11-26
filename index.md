@@ -20,12 +20,12 @@
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
-| 联邦基金有效利率 | [DFF](https://fred.stlouisfed.org/series/DFF) | 日 | 2026-11-23 | 3.88 | 3.88 |
-| 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-23 | 4.63 | 4.63 |
-| 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-23 | 4.92 | 4.92 |
-| 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-24 | 0.28 | 0.29 |
+| 联邦基金有效利率 | [DFF](https://fred.stlouisfed.org/series/DFF) | 日 | 2026-11-24 | 3.88 | 3.88 |
+| 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-24 | 4.63 | 4.63 |
+| 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-24 | 4.91 | 4.92 |
+| 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-25 | 0.24 | 0.28 |
 | VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-24 | 26.36 | 26.62 |
-| WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-17 | 89.53 | 89.24 |
+| WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-24 | 82.24 | 81.42 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-20 | 123.5978 | 123.5253 |
 | 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-11-21 | 189000 | 202000 |
 | 30 年期房贷利率 | [MORTGAGE30US](https://fred.stlouisfed.org/series/MORTGAGE30US) | 周 | 2026-11-25 | 7.21 | 7.28 |
@@ -42,6 +42,7 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-25 16:30 | AXP | AMERICAN EXPRESS CO | [8-K](https://www.sec.gov/Archives/edgar/data/4962/000000496226000440/axp-20261125.htm) | 董事或高管变动 |
 | 2026-11-25 12:16 | INTU | INTUIT INC. | [DEF 14A](https://www.sec.gov/Archives/edgar/data/896878/000089687826000053/intu-20261125.htm) | 股东大会委托书 |
 | 2026-11-25 06:11 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000807/tsm-dividendadjustmentx202.htm) | 外国公司临时报告 |
 | 2026-11-25 06:02 | TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000805/tsm-monthend6kx20261125.htm) | 外国公司临时报告 |
@@ -61,24 +62,23 @@
 | 2026-11-20 16:01 | MS | MORGAN STANLEY | [8-K](https://www.sec.gov/Archives/edgar/data/895421/000089542126000358/ms-20261120.htm) | 其他事件；财务报表和附件 |
 | 2026-11-19 17:26 | INTU | INTUIT INC. | [8-K](https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/d182669d8k.htm) | 签订重大协议；其他事件；财务报表和附件 |
 | 2026-11-19 16:46 | IBM | INTERNATIONAL BUSINESS MACHINES CORP | [8-K](https://www.sec.gov/Archives/edgar/data/51143/000110465926130189/tm2630132d1_8k.htm) | 财务报表和附件 |
-| 2026-11-19 16:46 | INTU | INTUIT INC. | [8-K](https://www.sec.gov/Archives/edgar/data/896878/000089687826000047/intu-20261119.htm) | 其他事件 |
 
 ## 最新内部人交易（Form 3/4/144）
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-25 18:46 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326018246/xslF345X06/ownership.xml) | 内部人交易 |
+| 2026-11-25 18:30 | AAPL | Apple Inc. | [4](https://www.sec.gov/Archives/edgar/data/320193/000114036126045775/xslF345X06/form4.xml) | 内部人交易 |
+| 2026-11-25 18:01 | CVX | CHEVRON CORP | [4](https://www.sec.gov/Archives/edgar/data/93410/000009341026000206/xslF345X06/form4.xml) | 内部人交易 |
+| 2026-11-25 16:23 | WMT | Walmart Inc. | [4](https://www.sec.gov/Archives/edgar/data/104169/000211064326000023/xslF345X06/wk-form4_1795641814.xml) | 内部人交易 |
+| 2026-11-25 16:18 | HD | HOME DEPOT, INC. | [4](https://www.sec.gov/Archives/edgar/data/354950/000035495026000192/xslF345X06/wk-form4_1795641486.xml) | 内部人交易 |
+| 2026-11-25 16:17 | HD | HOME DEPOT, INC. | [4](https://www.sec.gov/Archives/edgar/data/354950/000035495026000191/xslF345X06/wk-form4_1795641444.xml) | 内部人交易 |
+| 2026-11-25 16:07 | V | VISA INC. | [4](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000162/xslF345X06/form4.xml) | 内部人交易 |
+| 2026-11-25 16:05 | V | VISA INC. | [4](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000160/xslF345X06/form4.xml) | 内部人交易 |
+| 2026-11-25 16:03 | AAPL | Apple Inc. | [144](https://www.sec.gov/Archives/edgar/data/320193/000195004726011519/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-25 16:00 | HD | HOME DEPOT, INC. | [144](https://www.sec.gov/Archives/edgar/data/354950/000195004726011515/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-25 13:44 | BAC | BANK OF AMERICA CORP /DE/ | [4](https://www.sec.gov/Archives/edgar/data/70858/000007085826000609/xslF345X06/primary_doc.xml) | 内部人交易 |
 | 2026-11-25 11:59 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000044/xslF345X06/form4.xml) | 内部人交易 |
 | 2026-11-25 11:45 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000042/xslF345X06/form4.xml) | 内部人交易 |
 | 2026-11-25 11:42 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000040/xslF345X06/form4.xml) | 内部人交易 |
 | 2026-11-25 11:40 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000038/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 11:37 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000036/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 11:34 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000034/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 11:29 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000032/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 11:25 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000030/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 11:22 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000028/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 11:15 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000026/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 11:13 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000024/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 10:30 | CRCL | Circle Internet Group, Inc. | [144](https://www.sec.gov/Archives/edgar/data/1876042/000195917326008307/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
-| 2026-11-24 20:43 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000121106026000012/xslF345X06/form4-11252026_011156.xml) | 内部人交易 |
-| 2026-11-24 20:06 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000182415926000021/xslF345X06/wk-form4_1795568778.xml) | 内部人交易 |
-| 2026-11-24 20:06 | PLTR | Palantir Technologies Inc. | [4](https://www.sec.gov/Archives/edgar/data/1321655/000182392326000017/xslF345X06/wk-form4_1795568813.xml) | 内部人交易 |
