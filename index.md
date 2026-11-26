@@ -4,15 +4,15 @@
 
 ## 每日要闻
 
-2026-11-24，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-25，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [特朗普政府拟加征新关税且AI恐慌重现，标普与纳指收跌](news/2026/2026-11-24.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-as-ai-jitters-resurface-with-nvidia-s-governance-issues-and-talks-of-fresh-import-tariffs-nvda-dell-tsla-tgtx-in-focus/cNbuDhyR9lT?.tsrc=rss) | 2026-11-24 19:12 | 利空 | NVDA QQQ SPY TSLA |
-| 2 | [美联储威廉姆斯表示可能需要维持高利率以应对通胀](news/2026/2026-11-24.md#news-2) | [CNBC Markets](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) | 2026-11-24 08:33 | 利空 | DIA QQQ SPY |
-| 3 | [AMD大跌9%：3.37亿股转售申请叠加AI板块卖压](news/2026/2026-11-24.md#news-3) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/?.tsrc=rss) | 2026-11-24 17:39 | 利空 | AMD NVDA QQQ VGT |
-| 4 | [英伟达尽显剧烈波动，回吐2400亿美元市值](news/2026/2026-11-24.md#news-4) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-nvidia-gives-back-usd240-billion-in-market-value-despite-wall-street-upgrade-signaling-29-upside/?.tsrc=rss) | 2026-11-24 16:49 | 利空 | MAGS NVDA QQQ |
-| 5 | [美国消费者信心指数升至103.3，但通胀担忧依然存在](news/2026/2026-11-24.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html) | 2026-11-24 13:34 | 利好 | COST HD SPY WMT |
+| 1 | [Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank](news/2026/2026-11-25.md#news-1) | [CNBC Top News](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html) | 2026-11-25 09:18 | 不确定 |  |
+| 2 | [Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals](news/2026/2026-11-25.md#news-2) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/?.tsrc=rss) | 2026-11-25 17:06 | 不确定 |  |
+| 3 | [Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today](news/2026/2026-11-25.md#news-3) | [Yahoo Finance](https://www.kiplinger.com/investing/stocks/stocks-rally-off-lows-despite-inflation-and-ai-gloom-stock-market-today?.tsrc=rss) | 2026-11-25 16:08 | 不确定 |  |
+| 4 | ['Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now](news/2026/2026-11-25.md#news-4) | [Yahoo Finance](https://www.fool.com/investing/2026/11/25/big-short-investor-michael-burry-just-closed-his-bet-against-the-nasdaq-here-s-what-investors-should-do-now/?.tsrc=rss) | 2026-11-25 18:20 | 不确定 | NOW |
+| 5 | [Berkshire Hathaway Is Up 15% in 2026 and Easily Beating the S&P 500. Is Berkshire Stock Better Than an Index Fund Now?](news/2026/2026-11-25.md#news-5) | [Yahoo Finance](https://247wallst.com/investing/2026/11/25/berkshire-hathaway-is-up-15-in-2026-and-easily-beating-the-sp-500-is-berkshire-stock-better-than-an-index-fund-now/?.tsrc=rss) | 2026-11-25 13:02 | 不确定 | NOW |
 
 ## 宏观数据
 

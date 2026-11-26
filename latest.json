@@ -1,22 +1,22 @@
 {
- "date": "2026-11-24",
- "updated": "2026-11-25T08:24:23+00:00",
- "summary": "美股市场主要受科技股抛压和新一轮关税警示震荡下行，纳斯达克指数大幅领跌。尽管前一日出现反弹，但英伟达治理问题、AMD大规模股东抛售计划以及AI债务和芯片过剩担忧重新浮现，拖累整个半导体板块。此外，在美联储关键PCE通胀数据发布前夕，市场避险情绪有所上升。",
+ "date": "2026-11-25",
+ "updated": "2026-11-26T08:07:29+00:00",
+ "summary": "",
  "items": [
   {
-   "title": "特朗普政府拟加征新关税且AI恐慌重现，标普与纳指收跌",
-   "impact": "利空",
-   "url": "news/2026/2026-11-24.html#news-1"
+   "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+   "impact": "不确定",
+   "url": "news/2026/2026-11-25.html#news-1"
   },
   {
-   "title": "美联储威廉姆斯表示可能需要维持高利率以应对通胀",
-   "impact": "利空",
-   "url": "news/2026/2026-11-24.html#news-2"
+   "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
+   "impact": "不确定",
+   "url": "news/2026/2026-11-25.html#news-2"
   },
   {
-   "title": "AMD大跌9%：3.37亿股转售申请叠加AI板块卖压",
-   "impact": "利空",
-   "url": "news/2026/2026-11-24.html#news-3"
+   "title": "Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today",
+   "impact": "不确定",
+   "url": "news/2026/2026-11-25.html#news-3"
   }
  ],
  "macro": [
