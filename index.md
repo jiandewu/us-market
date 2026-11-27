@@ -24,7 +24,7 @@
 | 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-24 | 4.63 | 4.63 |
 | 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-24 | 4.91 | 4.92 |
 | 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-25 | 0.24 | 0.28 |
-| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-24 | 26.36 | 26.62 |
+| VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-26 | 26.80 | 28.29 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-24 | 82.24 | 81.42 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-20 | 123.5978 | 123.5253 |
 | 首次申请失业救济人数 | [ICSA](https://fred.stlouisfed.org/series/ICSA) | 周 | 2026-11-21 | 189000 | 202000 |
@@ -67,6 +67,7 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-27 09:42 | WMT | Walmart Inc. | [144](https://www.sec.gov/Archives/edgar/data/104169/000195917326008341/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-25 18:46 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326018246/xslF345X06/ownership.xml) | 内部人交易 |
 | 2026-11-25 18:30 | AAPL | Apple Inc. | [4](https://www.sec.gov/Archives/edgar/data/320193/000114036126045775/xslF345X06/form4.xml) | 内部人交易 |
 | 2026-11-25 18:01 | CVX | CHEVRON CORP | [4](https://www.sec.gov/Archives/edgar/data/93410/000009341026000206/xslF345X06/form4.xml) | 内部人交易 |
@@ -81,4 +82,3 @@
 | 2026-11-25 11:59 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000044/xslF345X06/form4.xml) | 内部人交易 |
 | 2026-11-25 11:45 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000042/xslF345X06/form4.xml) | 内部人交易 |
 | 2026-11-25 11:42 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000040/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 11:40 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000038/xslF345X06/form4.xml) | 内部人交易 |
