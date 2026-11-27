@@ -1,22 +1,22 @@
 {
- "date": "2026-11-25",
- "updated": "2026-11-26T08:07:29+00:00",
- "summary": "",
+ "date": "2026-11-26",
+ "updated": "2026-11-27T08:18:15+00:00",
+ "summary": "感恩节假期期间美股交投相对清淡，但在三季度GDP大幅上修至4.3%与最新关税风险的博弈下，市场情绪保持谨慎。与此同时，围绕AI高额杠杆融资、信贷违约风险以及监管限制的讨论进一步加剧了科技板块的波动。",
  "items": [
   {
-   "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+   "title": "美国第三季度GDP增速大幅上修至4.3%",
    "impact": "不确定",
-   "url": "news/2026/2026-11-25.html#news-1"
+   "url": "news/2026/2026-11-26.html#news-1"
   },
   {
-   "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-25.html#news-2"
+   "title": "美国拟对14个贸易伙伴提出新一轮关税威慑",
+   "impact": "利空",
+   "url": "news/2026/2026-11-26.html#news-2"
   },
   {
-   "title": "Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today",
-   "impact": "不确定",
-   "url": "news/2026/2026-11-25.html#news-3"
+   "title": "“大空头”迈克尔·布里预警AI融资与信用风险加剧",
+   "impact": "利空",
+   "url": "news/2026/2026-11-26.html#news-3"
   }
  ],
  "macro": [

@@ -2,6 +2,11 @@
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
+| 1 | [美国第三季度GDP增速大幅上修至4.3%](2026/2026-11-26.md#news-1) | [Yahoo Finance](https://247wallst.com/investing/2026/11/26/the-economy-grew-way-faster-than-first-reported-q3-gdp-revised-up-to-4-3/?.tsrc=rss) | 2026-11-26 10:28 | 不确定 | DIA IVV QQQ SPY VOO |
+| 2 | [美国拟对14个贸易伙伴提出新一轮关税威慑](2026/2026-11-26.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html) | 2026-11-26 07:46 | 利空 | QQQ SPY WMT |
+| 3 | [“大空头”迈克尔·布里预警AI融资与信用风险加剧](2026/2026-11-26.md#news-3) | [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/michael-burry-shares-stark-warning-063128312.html?.tsrc=rss) | 2026-11-27 01:31 | 利空 | AMZN META MSFT NVDA ORCL |
+| 4 | [美国限制AI芯片算力租赁以堵住出口监管漏洞](2026/2026-11-26.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html) | 2026-11-26 12:04 | 利空 | AMD AVGO NVDA TSM |
+| 5 | [AMD因3.37亿股登记转售致股价承压](2026/2026-11-26.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/amd-stocks-slip-1-75-182928246.html?.tsrc=rss) | 2026-11-26 13:29 | 利空 | AMD META NVDA |
 | 1 | [Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank](2026/2026-11-25.md#news-1) | [CNBC Top News](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html) | 2026-11-25 09:18 | 不确定 |  |
 | 2 | [Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals](2026/2026-11-25.md#news-2) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/?.tsrc=rss) | 2026-11-25 17:06 | 不确定 |  |
 | 3 | [Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today](2026/2026-11-25.md#news-3) | [Yahoo Finance](https://www.kiplinger.com/investing/stocks/stocks-rally-off-lows-despite-inflation-and-ai-gloom-stock-market-today?.tsrc=rss) | 2026-11-25 16:08 | 不确定 |  |

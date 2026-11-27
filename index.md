@@ -4,19 +4,19 @@
 
 ## 每日要闻
 
-2026-11-25，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-26，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank](news/2026/2026-11-25.md#news-1) | [CNBC Top News](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html) | 2026-11-25 09:18 | 不确定 |  |
-| 2 | [Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals](news/2026/2026-11-25.md#news-2) | [Yahoo Finance](https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/?.tsrc=rss) | 2026-11-25 17:06 | 不确定 |  |
-| 3 | [Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today](news/2026/2026-11-25.md#news-3) | [Yahoo Finance](https://www.kiplinger.com/investing/stocks/stocks-rally-off-lows-despite-inflation-and-ai-gloom-stock-market-today?.tsrc=rss) | 2026-11-25 16:08 | 不确定 |  |
-| 4 | ['Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now](news/2026/2026-11-25.md#news-4) | [Yahoo Finance](https://www.fool.com/investing/2026/11/25/big-short-investor-michael-burry-just-closed-his-bet-against-the-nasdaq-here-s-what-investors-should-do-now/?.tsrc=rss) | 2026-11-25 18:20 | 不确定 | NOW |
-| 5 | [Berkshire Hathaway Is Up 15% in 2026 and Easily Beating the S&P 500. Is Berkshire Stock Better Than an Index Fund Now?](news/2026/2026-11-25.md#news-5) | [Yahoo Finance](https://247wallst.com/investing/2026/11/25/berkshire-hathaway-is-up-15-in-2026-and-easily-beating-the-sp-500-is-berkshire-stock-better-than-an-index-fund-now/?.tsrc=rss) | 2026-11-25 13:02 | 不确定 | NOW |
+| 1 | [美国第三季度GDP增速大幅上修至4.3%](news/2026/2026-11-26.md#news-1) | [Yahoo Finance](https://247wallst.com/investing/2026/11/26/the-economy-grew-way-faster-than-first-reported-q3-gdp-revised-up-to-4-3/?.tsrc=rss) | 2026-11-26 10:28 | 不确定 | DIA IVV QQQ SPY VOO |
+| 2 | [美国拟对14个贸易伙伴提出新一轮关税威慑](news/2026/2026-11-26.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html) | 2026-11-26 07:46 | 利空 | QQQ SPY WMT |
+| 3 | [“大空头”迈克尔·布里预警AI融资与信用风险加剧](news/2026/2026-11-26.md#news-3) | [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/michael-burry-shares-stark-warning-063128312.html?.tsrc=rss) | 2026-11-27 01:31 | 利空 | AMZN META MSFT NVDA ORCL |
+| 4 | [美国限制AI芯片算力租赁以堵住出口监管漏洞](news/2026/2026-11-26.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html) | 2026-11-26 12:04 | 利空 | AMD AVGO NVDA TSM |
+| 5 | [AMD因3.37亿股登记转售致股价承压](news/2026/2026-11-26.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/amd-stocks-slip-1-75-182928246.html?.tsrc=rss) | 2026-11-26 13:29 | 利空 | AMD META NVDA |
 
 ## 宏观数据
 
-**AI 解读（2026-11-24）**：最新公布的宏观数据显示，10年期美债收益率与2年期美债收益率分别降至4.92%和4.63%，利差维持在0.29。与此同时，VIX波动率指数大跌25.83%至26.62，显示市场短期恐慌情绪有所缓解。市场目前密切关注美联储官员关于通胀路径的表态及即将公布的PCE数据，以寻求利率走向信号。
+**AI 解读（2026-11-26）**：最新发布的宏观数据显示，WTI原油价格在11月中下旬出现剧烈波动，从11月20日的87.59美元降至11月23日的81.42美元，随后小幅回升至82.24美元。基准利率方面，11月24日的联邦基金有效利率维持在3.88%，10年期美债收益率微降1个基点至4.91%，2年期美债收益率持平于4.63%。此外，10年与2年期美债利差在11月25日收窄至0.24%，显示出收益率曲线略有平坦化迹象。结合第三季度GDP大幅上修至4.3%的强劲增长，高利率环境对经济的实际约束依然是市场关注的焦点。
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
