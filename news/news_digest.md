@@ -2,6 +2,11 @@
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
+| 1 | [美股三大股指创下逾一年来最佳单周表现，AI乐观情绪全面回潮](2026/2026-11-27.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss) | 2026-11-27 16:29 | 利好 | DIA IVV QQQ SPY TSLA VOO |
+| 2 | [美拟议关税清单豁免芯片与服务器，台积电等半导体股走高](2026/2026-11-27.md#news-2) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-climb-1-84-194609822.html?.tsrc=rss) | 2026-11-27 14:46 | 利好 | AMD NVDA QCOM QQQ TSM |
+| 3 | [黄仁勋下周赴国会听证，英伟达近期剧震后出现逢低买入信号](2026/2026-11-27.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/nvda-stock-hit-bottom-jensen-haung-congress/cNRRYXMR9Vp?.tsrc=rss) | 2026-11-28 00:31 | 中性 | MAGS NVDA QQQ VGT |
+| 4 | [优步收购Delivery Hero跨过关键门槛，已锁定87%股权](2026/2026-11-27.md#news-4) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/uber-moves-closer-delivery-hero-163636526.html?.tsrc=rss) | 2026-11-27 11:36 | 利好 | UBER |
+| 5 | [通胀压力下消费者寻求性价比，零售商对黑五销售维持乐观](2026/2026-11-27.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html) | 2026-11-27 17:00 | 中性 | COST HD SPY WMT |
 | 1 | [美国第三季度GDP增速大幅上修至4.3%](2026/2026-11-26.md#news-1) | [Yahoo Finance](https://247wallst.com/investing/2026/11/26/the-economy-grew-way-faster-than-first-reported-q3-gdp-revised-up-to-4-3/?.tsrc=rss) | 2026-11-26 10:28 | 不确定 | DIA IVV QQQ SPY VOO |
 | 2 | [美国拟对14个贸易伙伴提出新一轮关税威慑](2026/2026-11-26.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html) | 2026-11-26 07:46 | 利空 | QQQ SPY WMT |
 | 3 | [“大空头”迈克尔·布里预警AI融资与信用风险加剧](2026/2026-11-26.md#news-3) | [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/michael-burry-shares-stark-warning-063128312.html?.tsrc=rss) | 2026-11-27 01:31 | 利空 | AMZN META MSFT NVDA ORCL |

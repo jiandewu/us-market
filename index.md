@@ -4,19 +4,19 @@
 
 ## 每日要闻
 
-2026-11-26，完整列表见 [news/news_digest.md](news/news_digest.md)。
+2026-11-27，完整列表见 [news/news_digest.md](news/news_digest.md)。
 
 | Rank | Title (ZH) | Source | Published (ET) | Impact | Related Symbols |
 |---|---|---|---|---|---|
-| 1 | [美国第三季度GDP增速大幅上修至4.3%](news/2026/2026-11-26.md#news-1) | [Yahoo Finance](https://247wallst.com/investing/2026/11/26/the-economy-grew-way-faster-than-first-reported-q3-gdp-revised-up-to-4-3/?.tsrc=rss) | 2026-11-26 10:28 | 不确定 | DIA IVV QQQ SPY VOO |
-| 2 | [美国拟对14个贸易伙伴提出新一轮关税威慑](news/2026/2026-11-26.md#news-2) | [CNBC Top News](https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html) | 2026-11-26 07:46 | 利空 | QQQ SPY WMT |
-| 3 | [“大空头”迈克尔·布里预警AI融资与信用风险加剧](news/2026/2026-11-26.md#news-3) | [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/michael-burry-shares-stark-warning-063128312.html?.tsrc=rss) | 2026-11-27 01:31 | 利空 | AMZN META MSFT NVDA ORCL |
-| 4 | [美国限制AI芯片算力租赁以堵住出口监管漏洞](news/2026/2026-11-26.md#news-4) | [CNBC Top News](https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html) | 2026-11-26 12:04 | 利空 | AMD AVGO NVDA TSM |
-| 5 | [AMD因3.37亿股登记转售致股价承压](news/2026/2026-11-26.md#news-5) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/amd-stocks-slip-1-75-182928246.html?.tsrc=rss) | 2026-11-26 13:29 | 利空 | AMD META NVDA |
+| 1 | [美股三大股指创下逾一年来最佳单周表现，AI乐观情绪全面回潮](news/2026/2026-11-27.md#news-1) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss) | 2026-11-27 16:29 | 利好 | DIA IVV QQQ SPY TSLA VOO |
+| 2 | [美拟议关税清单豁免芯片与服务器，台积电等半导体股走高](news/2026/2026-11-27.md#news-2) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-climb-1-84-194609822.html?.tsrc=rss) | 2026-11-27 14:46 | 利好 | AMD NVDA QCOM QQQ TSM |
+| 3 | [黄仁勋下周赴国会听证，英伟达近期剧震后出现逢低买入信号](news/2026/2026-11-27.md#news-3) | [Yahoo Finance](https://stocktwits.com/news-articles/markets/equity/nvda-stock-hit-bottom-jensen-haung-congress/cNRRYXMR9Vp?.tsrc=rss) | 2026-11-28 00:31 | 中性 | MAGS NVDA QQQ VGT |
+| 4 | [优步收购Delivery Hero跨过关键门槛，已锁定87%股权](news/2026/2026-11-27.md#news-4) | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/uber-moves-closer-delivery-hero-163636526.html?.tsrc=rss) | 2026-11-27 11:36 | 利好 | UBER |
+| 5 | [通胀压力下消费者寻求性价比，零售商对黑五销售维持乐观](news/2026/2026-11-27.md#news-5) | [CNBC Top News](https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html) | 2026-11-27 17:00 | 中性 | COST HD SPY WMT |
 
 ## 宏观数据
 
-**AI 解读（2026-11-26）**：最新发布的宏观数据显示，WTI原油价格在11月中下旬出现剧烈波动，从11月20日的87.59美元降至11月23日的81.42美元，随后小幅回升至82.24美元。基准利率方面，11月24日的联邦基金有效利率维持在3.88%，10年期美债收益率微降1个基点至4.91%，2年期美债收益率持平于4.63%。此外，10年与2年期美债利差在11月25日收窄至0.24%，显示出收益率曲线略有平坦化迹象。结合第三季度GDP大幅上修至4.3%的强劲增长，高利率环境对经济的实际约束依然是市场关注的焦点。
+**AI 解读（2026-11-27）**：11月25日与26日联邦基金有效利率均持平于3.88%。美债收益率在11月25日有所下行，10年期美债收益率降至4.85%（变动-6个基点），2年期降至4.61%（变动-2个基点），11月27日10年与2年期利差升至0.25个基点。VIX波动率指数在11月25日升至28.29后于26日回落至26.80（下降5.27%），反映长假期间市场恐慌情绪略有释放。
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
