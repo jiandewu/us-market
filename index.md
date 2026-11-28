@@ -20,10 +20,10 @@
 
 | 指标 | FRED | 频率 | 最新日期 | 最新值 | 前值 |
 |---|---|---|---|---|---|
-| 联邦基金有效利率 | [DFF](https://fred.stlouisfed.org/series/DFF) | 日 | 2026-11-24 | 3.88 | 3.88 |
-| 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-24 | 4.63 | 4.63 |
-| 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-24 | 4.91 | 4.92 |
-| 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-25 | 0.24 | 0.28 |
+| 联邦基金有效利率 | [DFF](https://fred.stlouisfed.org/series/DFF) | 日 | 2026-11-26 | 3.88 | 3.88 |
+| 2 年期美债收益率 | [DGS2](https://fred.stlouisfed.org/series/DGS2) | 日 | 2026-11-25 | 4.61 | 4.63 |
+| 10 年期美债收益率 | [DGS10](https://fred.stlouisfed.org/series/DGS10) | 日 | 2026-11-25 | 4.85 | 4.91 |
+| 10 年减 2 年期利差 | [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) | 日 | 2026-11-27 | 0.25 | 0.24 |
 | VIX 波动率指数 | [VIXCLS](https://fred.stlouisfed.org/series/VIXCLS) | 日 | 2026-11-26 | 26.80 | 28.29 |
 | WTI 原油价格 | [DCOILWTICO](https://fred.stlouisfed.org/series/DCOILWTICO) | 日 | 2026-11-24 | 82.24 | 81.42 |
 | 广义美元指数 | [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) | 日 | 2026-11-20 | 123.5978 | 123.5253 |
@@ -67,6 +67,9 @@
 
 | 美东时间 | 代码 | 公司 | 类型 | 说明 |
 |---|---|---|---|---|
+| 2026-11-27 13:24 | KO | COCA COLA CO | [144](https://www.sec.gov/Archives/edgar/data/21344/000195004726011581/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-27 13:06 | AAPL | Apple Inc. | [144](https://www.sec.gov/Archives/edgar/data/320193/000195004726011560/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
+| 2026-11-27 13:02 | QCOM | QUALCOMM INC/DE | [144](https://www.sec.gov/Archives/edgar/data/804328/000195004726011557/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-27 09:42 | WMT | Walmart Inc. | [144](https://www.sec.gov/Archives/edgar/data/104169/000195917326008341/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-25 18:46 | META | Meta Platforms, Inc. | [4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326018246/xslF345X06/ownership.xml) | 内部人交易 |
 | 2026-11-25 18:30 | AAPL | Apple Inc. | [4](https://www.sec.gov/Archives/edgar/data/320193/000114036126045775/xslF345X06/form4.xml) | 内部人交易 |
@@ -79,6 +82,3 @@
 | 2026-11-25 16:03 | AAPL | Apple Inc. | [144](https://www.sec.gov/Archives/edgar/data/320193/000195004726011519/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-25 16:00 | HD | HOME DEPOT, INC. | [144](https://www.sec.gov/Archives/edgar/data/354950/000195004726011515/xsl144X01/primary_doc.xml) | 拟出售受限股票 |
 | 2026-11-25 13:44 | BAC | BANK OF AMERICA CORP /DE/ | [4](https://www.sec.gov/Archives/edgar/data/70858/000007085826000609/xslF345X06/primary_doc.xml) | 内部人交易 |
-| 2026-11-25 11:59 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000044/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 11:45 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000042/xslF345X06/form4.xml) | 内部人交易 |
-| 2026-11-25 11:42 | XOM | ExxonMobil Holdings Corp | [4](https://www.sec.gov/Archives/edgar/data/2115436/000211543626000040/xslF345X06/form4.xml) | 内部人交易 |
